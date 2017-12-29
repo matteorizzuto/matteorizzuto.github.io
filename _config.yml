@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Matteo Rizzuto"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Matteo Rizzuto"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://matteorizzuto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Matteo Rizzuto"
+  avatar           : "avatar.tiff"
+  bio              : "2nd year PhD Student at Memorial University of Newfoundland, studying <b>how distribution and availability of nutrients influence terrestrial food web dynamics</b>."
+  location         : "Department of Biology, Memorial University of Newfoundland, Canada"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.it/citations?user=JkHYiIEAAAAJ&hl=en"
+  email            : "mrizzuto [at] mun [dot] ca"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/mrizzuto/"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/mat.rizzuto"
   foursquare       :
-  github           : "academicpages"
+  github           : "matteorizzuto"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/matteorizzuto/"
+  orcid            : "https://orcid.org/0000-0003-3065-9140"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MatteoRiz"
   vine             :
   weibo            :
   xing             :
