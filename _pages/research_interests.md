@@ -1,9 +1,9 @@
 ---
 title: "<h1>Research interests</h1>"
-permalink: /research-interests/
+permalink: /research_interests/
 author_profile: true
 redirect_from:
-  - /research-interests
+  - /research_interests
 ---
 
 My research mostly takes place at the interface between Behavioural and Ecosystem Ecology. Currently, I am working on three main themes:
