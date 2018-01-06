@@ -35,12 +35,6 @@ mechanistically linking body size to population fitness and vulnerability in
 consumers.
 </p>
 
-[Read the full text here](http://rdcu.be/Ajqp)
-
-Recommended citation: Rizzuto, M., Carbone, C. and Pawar, S. (2017). Foraging
-constraints reverse the scaling of activity time in carnivores. <i>Nat. Ecol.
-Evol.</i>, Dec. 4.
-
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://rdcu.be/Ajqp)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://figshare.com/articles/RCode_from_Rizzuto_et_al_Foraging_constraints_reverse_the_scaling_of_activity_time_in_carnivores_/5466295)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://figshare.com/articles/Rizzuto_et_al_Activity_Data_set/5464150)
