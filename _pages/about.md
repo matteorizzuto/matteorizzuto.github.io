@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+### !!! Under Construction !!!
+<br>
 Hi there, and welcome to my website.
 
 My name is Matteo Rizzuto and I am a 2nd year Ph.D. student in the [Department of Biology](www.mun.ca/biology), at [Memorial University of
