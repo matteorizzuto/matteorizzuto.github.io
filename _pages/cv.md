@@ -11,31 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+**Memorial University of Newfoundland,** St. John's, NL, Canada
+*PhD - Biology*,
+2016--present
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Thesis: _Bottom-up or top-down? Intraspecific variability, resource quality and space use in the Boreal Forest_
+* Advisor: Dr. Shawn J. Leroux
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Imperial College London,** London, UK
+*Master of Research, [Ecology, Evolution and Conservation](https://www.imperial.ac.uk/study/pg/life-sciences/ecology-evolution-conservation/)*,
+2013--2014
+
+* Completed with Distinction
+* First Research Project: _The Scaling of Activity Budgets in Carnivores_
+* Advisors: Dr. Samraat Pawar and Dr. Chris Carbone
+* Second Research Project: _Comparison of two commonly used methods to estimate species diversity:dung counts and camera trapping._
+* Advisors: Prof. Mick J. Crawley FRS, Dr. Joris P. Cromsigt
+
+**University of Turin,** Turin, Italy
+*Master of Science, [Evolution of Animal and Human Behavior](http://naturali.campusnet.unito.it/do/home.pl/View?doc=HomePageLM_ECAU.html)*,
+2009--2012
+
+* Thesis: _Predator-prey interactions: feeding ecology of the Wolf (C. lupus) and anti-predator behaviour of the Chamois (R. rupicapra) in the Western Alps_
+* Advisor: Dr. Francesca Marucco
+
+**University of Turin,** Turin, Italy
+*Bachelor of Science, [Biology](http://biologia.campusnet.unito.it/do/home.pl)*,
+2004--209
+
+* Thesis: _Individual characteristics of vocalisations emitted during the song of Indri indri_
+* Advisor: Prof. Cristina Giacoma, Dr. Marco Gamba
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -53,7 +59,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
