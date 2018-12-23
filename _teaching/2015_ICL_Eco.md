@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Teaching Assistant"
 permalink: /teaching/2015_ICL_Eco.md
 venue: "Imperial College London, Department of Life Sciences"
-date: Winter 2015
+date: 2015
 location: "London, UK"
 ---
 

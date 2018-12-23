@@ -4,6 +4,6 @@ collection: talks
 type: "Poster presentation"
 permalink: /talks/2018_GRC_ActiveNutTransp.md
 venue: "<i>Unifying Ecology Across Scales</i> Gordon Research Seminar and Conference"
-date: 2018-07-{21-27}
+date: 2018-07-21
 location: "Biddeford, USA"
 ---

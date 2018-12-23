@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Teaching Assistant"
 permalink: /teaching/2014_ICL_Statistics.md
 venue: "Imperial College London, Department of Life Sciences"
-date: Fall 2014
+date: 2014
 location: "London, UK"
 ---
 
