@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate Teaching Assistant"
 permalink: /teaching/2018_MUN_PrincEco.md
 venue: "Memorial University of Newfoundland, Department of Biology"
-date: 2018
 location: "St. John's, Canada"
 ---
 

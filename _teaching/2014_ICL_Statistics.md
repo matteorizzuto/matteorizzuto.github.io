@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2014_ICL_Statistics.md
 venue: "Imperial College London - Silwood Park Campus, Department of Life Sciences"
-date: 2014
 location: "Ascot, UK"
 ---
 

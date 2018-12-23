@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2014_ICL_MacroEco.md
 venue: "Imperial College London - Silwood Park Campus, Department of Life Sciences"
-date: 2014
 location: "Ascot, UK"
 ---
 
