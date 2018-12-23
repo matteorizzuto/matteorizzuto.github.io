@@ -11,7 +11,7 @@ redirect_from:
 <br>
 Hi there, and welcome to my website.
 
-My name is Matteo Rizzuto and I am a 2nd year Ph.D. student in the [Department of Biology](www.mun.ca/biology), at [Memorial University of
+My name is Matteo Rizzuto and I am a 3rd  year Ph.D. Candidate in the [Department of Biology](www.mun.ca/biology), at [Memorial University of
 Newfoundland](www.mun.ca). I conduct my research in the [Ecosystem Ecology Lab](http://shawnleroux.wixsite.com/lerouxlab), under the supervision of Dr.
 Shawn J. Leroux.
 
