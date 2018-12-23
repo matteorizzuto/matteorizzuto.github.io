@@ -1,9 +1,10 @@
 ---
 title: "Principles of Ecology"
 collection: teaching
-type: "Undergraduate Teaching Assistant"
+type: "Undergraduate Course"
 permalink: /teaching/2018_MUN_PrincEco.md
 venue: "Memorial University of Newfoundland, Department of Biology"
+date: 2018-01-01
 location: "St. John's, Canada"
 ---
 

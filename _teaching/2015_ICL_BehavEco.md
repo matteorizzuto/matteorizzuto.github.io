@@ -1,9 +1,10 @@
 ---
 title: "Behavioural Ecology"
 collection: teaching
-type: "Undergraduate Teaching Assistant"
+type: "Undergraduate Course "
 permalink: /teaching/2015_ICL_BehavEco.md
 venue: "Imperial College London, Department of Life Sciences"
+date: 2015-01-01
 location: "London, UK"
 ---
 

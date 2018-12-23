@@ -1,9 +1,10 @@
 ---
 title: "Principles of Biology"
 collection: teaching
-type: "Undergraduate Teaching Assistant"
+type: "Undergraduate course"
 permalink: /teaching/2017_MUN_PrincBio.md
 venue: "Memorial University of Newfoundland, Department of Biology"
+date: 2017-01-01
 location: "St. John's, Canada"
 ---
 

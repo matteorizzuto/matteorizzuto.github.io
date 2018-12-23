@@ -1,10 +1,10 @@
 ---
 title: "Introduction to Biological Statistics"
 collection: teaching
-type: "Undergraduate Teaching Assistant"
+type: "Undergraduate Course"
 permalink: /teaching/2014_ICL_Statistics.md
 venue: "Imperial College London, Department of Life Sciences"
-date: 2014-10-01
+date: 2014-01-01
 location: "London, UK"
 ---
 - Demonstrator during the course's lectures
