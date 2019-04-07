@@ -9,7 +9,8 @@ excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Foraging_constraints_carnivores.bib)'
 date: 2017-12-04
 venue: 'Nature Ecology and Evolution'
-paperurl: 'http://rdcu.be/Ajqp'
+paperurl: 'https://doi.org/10.1038/s41559-017-0386-1'
+readurl: 'http://rdcu.be/Ajqp'
 citation: 'Rizzuto, M., Carbone, C. and Pawar, S. (2017). Foraging
 constraints reverse the scaling of activity time in carnivores. <i>Nat. Ecol.
 Evol.</i>, Dec. 4.'
