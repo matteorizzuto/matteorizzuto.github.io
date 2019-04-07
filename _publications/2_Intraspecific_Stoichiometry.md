@@ -1,5 +1,5 @@
 ---
-title: "<b>1\\.</b> <u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. H., and Balluffi-Fry, J. (2019). **Patterns and potential drivers of intraspecific variability in the body elemental composition of a terrestrial consumer, the snowshoe hare (<i>Lepus americanus</i>)** bioRxiv."
+title: "<b>2\\.</b> <u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. H., and Balluffi-Fry, J. (2019). **Patterns and potential drivers of intraspecific variability in the body elemental composition of a terrestrial consumer, the snowshoe hare (<i>Lepus americanus</i>)** bioRxiv."
 collection: publications
 permalink: /publication/1_Foraging_constraints_carnivores
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/2_Intraspecific_Stoichiometry)
