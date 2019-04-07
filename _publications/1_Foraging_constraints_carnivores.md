@@ -7,7 +7,6 @@ excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.5466295.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.5464150.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Foraging_constraints_carnivores.bib)'
-paperurl: 'https://doi.org/10.1038/s41559-017-0386-1'
 ---
 
 ### Abstract:
