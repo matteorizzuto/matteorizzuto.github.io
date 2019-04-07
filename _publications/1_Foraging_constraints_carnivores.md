@@ -1,5 +1,5 @@
 ---
-title: "<b>1\\.</b> <u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Carbone, C. and Pawar, S. (2018). **Foraging constraints reverse the scaling of activity time in carnivores.** Nature Ecology and Evolution, 2(2), 247–253. doi:10.1038/s41559-017-0386-1"
+title: "<b>1\\.</b> <u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Carbone, C. and Pawar, S. (2018). **Foraging constraints reverse the scaling of activity time in carnivores.** Nature Ecology and Evolution, 2(2), 247–253."
 collection: publications
 permalink: /publication/1_Foraging_constraints_carnivores
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/1_Foraging_constraints_carnivores)
@@ -7,10 +7,11 @@ excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://figshare.com/articles/RCode_from_Rizzuto_et_al_Foraging_constraints_reverse_the_scaling_of_activity_time_in_carnivores_/5466295)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://figshare.com/articles/Rizzuto_et_al_Activity_Data_set/5464150)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Foraging_constraints_carnivores.bib)'
-date: 2017-12-04
-venue: 'Nature Ecology and Evolution'
 paperurl: 'https://doi.org/10.1038/s41559-017-0386-1'
-citation: 'Rizzuto, M., Carbone, C., & Pawar, S. (2018). Foraging constraints reverse the scaling of activity time in carnivores. <i>Nature Ecology and Evolution</i>, 2(2), 247–253. doi:10.1038/s41559-017-0386-1'
+citation: 'Rizzuto, M., Carbone, C., & Pawar, S. (2018).
+Foraging constraints reverse the scaling of activity time in
+carnivores. <i>Nature Ecology and Evolution</i>, 2(2), 247–253.
+doi:10.1038/s41559-017-0386-1'
 ---
 
 ### Abstract:
