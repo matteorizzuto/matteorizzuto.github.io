@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/1_Foraging_constraints_carnivores
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/1_Foraging_constraints_carnivores)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://rdcu.be/Ajqp)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://figshare.com/articles/RCode_from_Rizzuto_et_al_Foraging_constraints_reverse_the_scaling_of_activity_time_in_carnivores_/5466295)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://figshare.com/articles/Rizzuto_et_al_Activity_Data_set/5464150)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.5466295.v1)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.5464150.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Foraging_constraints_carnivores.bib)'
 paperurl: 'https://doi.org/10.1038/s41559-017-0386-1'
 citation: 'Rizzuto, M., Carbone, C., & Pawar, S. (2018).
@@ -35,6 +35,6 @@ consumers.
 </p>
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://rdcu.be/Ajqp)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://figshare.com/articles/RCode_from_Rizzuto_et_al_Foraging_constraints_reverse_the_scaling_of_activity_time_in_carnivores_/5466295)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://figshare.com/articles/Rizzuto_et_al_Activity_Data_set/5464150)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.5466295.v1)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.5464150.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/1_Foraging_constraints_carnivores.bib)
