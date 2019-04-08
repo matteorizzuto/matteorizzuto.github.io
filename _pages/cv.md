@@ -41,21 +41,21 @@ Education
 
 * Thesis: _Individual characteristics of vocalisations emitted during the song of Indri indri_
 * Advisor: Prof. Cristina Giacoma, Dr. Marco Gamba
-  
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul style="list-style: none;">{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul style="list-style: none;">{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul style="list-style: none;">{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
