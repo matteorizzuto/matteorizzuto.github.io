@@ -1,8 +1,8 @@
 ---
 title: "<b>2\\.</b> <u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. H., and Balluffi-Fry, J. (2019). **Patterns and potential drivers of intraspecific variability in the body elemental composition of a terrestrial consumer, the snowshoe hare (<i>Lepus americanus</i>)** bioRxiv. <img src='../images/preprint.png'>"
 collection: publications
-permalink: /publication/1_Foraging_constraints_carnivores
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/2_Intraspecific_Stoichiometry)
+permalink: /_publications/2_Intraspecific_Stoichiometry
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../_publication/2_Intraspecific_Stoichiometry)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/594101)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
