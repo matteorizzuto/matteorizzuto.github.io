@@ -1,3 +1,11 @@
+---
+title: "<h1>Past Reserach</h1>"
+permalink: /past-reserach/
+author_profile: true
+redirect_from:
+  - /past-research
+---
+
 ## 2015: Tsaobis Baboon Project
 
 [image here]
