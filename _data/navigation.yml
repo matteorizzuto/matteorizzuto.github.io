@@ -2,9 +2,12 @@
 main:
   - title: "Research Interests"
     url: /research-interests/
-    
+
+  - title: "Current Research"
+    url: /current-research/
+
   - title: "Past Research"
-    url: /past-reserach/
+    url: /past-research/
 
   - title: "Publications"
     url: /publications/
