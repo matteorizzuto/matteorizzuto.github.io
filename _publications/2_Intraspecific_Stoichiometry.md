@@ -1,9 +1,9 @@
 ---
-title: "<b>2\\.</b> <u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. R., and Balluffi-Fry, J. (2019). **Patterns and potential drivers of intraspecific variability in the body C, N, P composition of a terrestrial vertebrate, the snowshoe hare (<i>Lepus americanus</i>)** Accepted at <i>Ecology and Evolution</i>. bioRxiv preprint <img src='../images/preprint.png'>"
+title: "<b>2\\.</b> <u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. R., and Balluffi-Fry, J. (2019). **Patterns and potential drivers of intraspecific variability in the body C, N, P composition of a terrestrial vertebrate, the snowshoe hare (<i>Lepus americanus</i>)**. <i>Ecology and Evolution</i>, 9, 14453--14464. bioRxiv preprint <img src='../images/preprint.png'>"
 collection: publications
 permalink: /publication/2_Intraspecific_Stoichiometry
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/2_Intraspecific_Stoichiometry)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/594101)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1002/ece3.5880)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Intraspecific_Stoichiometry.bib)'
@@ -19,7 +19,7 @@ excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span
 5. Despite finding considerable stoichiometric variability in our sample, we found no substantial support for age, sex, or body size to relate to this variation. The weak relationship between body N concentration and age may suggest varying nutritional requirements of individuals at different ages. Conversely, P’s weak relationship to body size appears in line with recent evidence of the potential importance of P in terrestrial systems. Snowshoe hares are a keystone herbivore in the boreal forest of North America. The substantial stoichiometric variability we find in our sample could have important implications for nutrient dynamics in both boreal and adjacent ecosystems.
 </p>
 
-[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/594101)
+[<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1002/ece3.5880)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Intraspecific_Stoichiometry.bib)
