@@ -8,7 +8,7 @@ redirect_from:
 
 ## 2015: Tsaobis Baboon Project
 <style>img {float: left;}</style>
-<img src="../images/babs_tsaobis.png" style = "min-width:80px;max-width:120px;margin-right:15px">
+<img src="../images/babs_tsaobis.png" style = "width:120px;height:200px;margin-right:15px">
 
 A pair of baboons rests on a sleeping cliff as the sun sets over the Tsaobis riverbed.
 
@@ -18,7 +18,7 @@ The Tsaobis Baboon Project is a long-term study conducted by the Zoological Soci
 
 ## 2014: Comparison of two commonly used methods to estimate species diversity: dung counts and camera trapping
 
-<img src="../images/bio_tools.png" style = "min-width:13vw;max-width:30vw">
+<img src="../images/bio_tools.png" style = "min-width:120px;max-width:160px;margin-right:15px">
 
 A wildlife biologist's set of tools: poop and cameras.
 
