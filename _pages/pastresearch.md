@@ -7,10 +7,8 @@ redirect_from:
 ---
 
 ## 2015: Tsaobis Baboon Project
-
-</div>
-<img src="../images/babs_tsaobis.png" style = "min-width:13vw;max-width:30vw">
-</div>
+<style>img {float: left;}</style>
+<img src="../images/babs_tsaobis.png" style = "min-width:13vw;max-width:30vw;">
 
 A pair of baboons rests on a sleeping cliff as the sun sets over the Tsaobis riverbed.
 
@@ -20,9 +18,8 @@ The Tsaobis Baboon Project is a long-term study conducted by the Zoological Soci
 
 ## 2014: Comparison of two commonly used methods to estimate species diversity: dung counts and camera trapping
 
-</div>
 <img src="../images/bio_tools.png" style = "min-width:13vw;max-width:30vw">
-</div>
+
 A wildlife biologist's set of tools: poop and cameras.
 
 In summer 2014, as part of my Master of Research degree at Imperial College London, I designed and performed a study comparing different techniques used in assessing species community composition. I collected my data in the Hluhluwe-iMfolozi Park (South Africa), as part of an existing experimental program investigating herbivores response to predation risk and resource availability manipulation. I used a fully-factorial experimental setup, comprised of four sampling plots paired together by type of treatment and habitat composition.  I visited each plot on a bi-weekly schedule, counting feces with the help of a local guide and collecting photos from camera traps at the same time. Working at close contact with locals, I developed strong bonds with them and learned a lot about both Zulu and South African culture. I also helped some of the fellow researchers present in the park around the same time as me, engaging in plant phenology surveys and lion collaring.
