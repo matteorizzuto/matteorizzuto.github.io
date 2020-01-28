@@ -8,7 +8,7 @@ redirect_from:
 
 ## 2015: Tsaobis Baboon Project
 <style>img {float: left;}</style>
-<img src="../images/babs_tsaobis.png" style = "min-width:13vw;max-width:30vw;">
+<img src="../images/babs_tsaobis.png" style = "min-width:80px;max-width:120px;margin-right:15px">
 
 A pair of baboons rests on a sleeping cliff as the sun sets over the Tsaobis riverbed.
 
