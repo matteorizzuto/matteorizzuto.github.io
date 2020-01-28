@@ -16,17 +16,18 @@ A pair of baboons rests on a sleeping cliff as the sun sets over the Tsaobis riv
 
 In summer 2015, I spent three months in the Tsaobis Nature Park, on the fringes of the Namibian Desert, collecting data on Chacma Baboon (_Papio ursinus_) behavior and population ecology. Work schedule involved daily hiking in the Tsaobis riverbed and surrounding hills following one of two habituated baboon troops. Researchers worked in pairs to perform individual focal sampling, scan surveys of activity and ad libitum collection of social interactions. Each of us spent a whole month learning how to correctly identify each of the 90+ adult baboons that made up the two troops. Once a month, we conducted vegetation surveys to assess food availability and feces collection to analyze parasite loads.
 
-The Tsaobis Baboon Project is a long-term study conducted by the Zoological Society of London. You can learn more about it on their website [add link here].
+The Tsaobis Baboon Project is a long-term study conducted by the Zoological Society of London. You can learn more about it on their [website](https://www.zsl.org/science/research/baboon).
 
 ## 2014: Comparison of two commonly used methods to estimate species diversity: dung counts and camera trapping
 
-[image here]
+</div>
+<img src="../images/bio_tools.png" style = "min-width:13vw;max-width:30vw">
+</div>
 A wildlife biologist's set of tools: poop and cameras.
 
 In summer 2014, as part of my Master of Research degree at Imperial College London, I designed and performed a study comparing different techniques used in assessing species community composition. I collected my data in the Hluhluwe-iMfolozi Park (South Africa), as part of an existing experimental program investigating herbivores response to predation risk and resource availability manipulation. I used a fully-factorial experimental setup, comprised of four sampling plots paired together by type of treatment and habitat composition.  I visited each plot on a bi-weekly schedule, counting feces with the help of a local guide and collecting photos from camera traps at the same time. Working at close contact with locals, I developed strong bonds with them and learned a lot about both Zulu and South African culture. I also helped some of the fellow researchers present in the park around the same time as me, engaging in plant phenology surveys and lion collaring.
 
 ## 2014: The Scaling of Activity Budgets in Carnivores.
-
 
 [image here] Manor House at Silwood Park Campus, Ascot.
 My first research project for my Master of Research degree involved a computer-based meta-analysis of the literature on activity patterns of carnivores. Working at Imperial College Silwood Park Campus, I investigated whether the amount of time carnivores spend active during a 24-hour period scales with body weight. I assembled a novel, comprehensive database of activity data for species spanning in size from the Least Weasel (_Mustela nivalis_) to Tigers (_Panthera tigris_), digitizing tables and graphs from published sources. My analyses focused strictly on radio-tracking data, as these are the best-quality data on animal activity available at present. In addition to analyzing these empirical data, I also developed a simple mathematical model - based on physiological first principles - that will allow researchers and wildlife managers to predict how much time a given species spends active during the day. This, in turn, will hopefully inform both future studies design and conservation policy.
