@@ -1,6 +1,6 @@
 ---
 title: "<h1>Activity Budget Scaling in Carnivores</h1>"
-permalink: /past-research/ActivityScaling
+permalink: /past-research/4_ActivityScaling
 collection: pastresearch
 ---
 

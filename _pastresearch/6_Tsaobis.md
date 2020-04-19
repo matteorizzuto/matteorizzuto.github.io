@@ -1,6 +1,6 @@
 ---
 title: "<h1>Baboon Population Ecology</h1>"
-permalink: /past-research/Tsaobis
+permalink: /past-research/6_Tsaobis
 collection: pastresearch
 ---
 

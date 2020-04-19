@@ -1,6 +1,6 @@
 ---
 title: "<h1>Counting species: a test of two methods</h1>"
-permalink: /past-research/SpeciesDiversityMethods
+permalink: /past-research/5_SpeciesDiversityMethods
 collection: pastresearch
 ---
 

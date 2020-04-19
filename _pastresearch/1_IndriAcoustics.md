@@ -1,6 +1,6 @@
 ---
 title: "<h1>Bioacoustics of lemurs</h1>"
-permalink: /past-research/IndriAcoustics
+permalink: /past-research/1_IndriAcoustics
 collection: pastresearch
 ---
 

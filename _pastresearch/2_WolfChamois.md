@@ -1,6 +1,6 @@
 ---
 title: "<h1>Predator-prey interactions in the Western Alps</h1>"
-permalink: /past-research/WolfCHamois
+permalink: /past-research/2_WolfCHamois
 collection: pastresearch
 ---
 

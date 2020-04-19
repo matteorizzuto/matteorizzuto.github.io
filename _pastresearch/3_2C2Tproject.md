@@ -1,6 +1,6 @@
 ---
 title: "<h1>Roe and Red Deer in Trentino and Technology Project</h1>"
-permalink: /past-research/2C2Tproject
+permalink: /past-research/3_2C2Tproject
 collection: pastresearch
 ---
 
