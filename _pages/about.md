@@ -13,7 +13,7 @@ Hi! My name is Matteo and I am an ecologist. I study how organisms interactions 
 <br>
 Welcome to my website!
 
-Here is a little bit about me. I am in the 4th year of my Ph.D. in the [Ecosystem Ecology Lab](http://shawnleroux.wixsite.com/lerouxlab) at [Memorial University](www.mun.ca/biology).
+I am in the 4th year of my Ph.D. in the [Ecosystem Ecology Lab](http://shawnleroux.wixsite.com/lerouxlab) at [Memorial University](www.mun.ca/biology).
 
 I completed a BSc in Biology and a MSc in Evolution of Animal and Human Behaviour at the [University of Turin](www.unito.it/en). I then enrolled in a MRes in Ecology, Evolution and Conservation at Imperial College London, which I completed with Distinction.
 
