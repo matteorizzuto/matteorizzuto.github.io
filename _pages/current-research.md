@@ -8,6 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.current-research reversed %}
+{% for post in site.currentresearch reversed %}
   {% include archive-single.html %}
 {% endfor %}
