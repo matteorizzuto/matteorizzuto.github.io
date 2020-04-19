@@ -255,6 +255,14 @@ defaults:
       layout: portfolio
       author_profile: true
       share: true
+  # _pastresearch
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: portfolio
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
