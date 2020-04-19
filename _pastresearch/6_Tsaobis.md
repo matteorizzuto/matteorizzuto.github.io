@@ -2,6 +2,7 @@
 title: "<h1>Baboon Population Ecology</h1>"
 permalink: /past-research/6_Tsaobis
 collection: pastresearch
+excerpt: 'Baboons live in large group with complex social structures. I worked with behavioural and population ecologist to learn more about how these societies are regulated.'
 ---
 
 <img src="../images/babs_tsaobis.png" alt="A pair of baboons rests on a sleeping cliff as the sun sets over the Tsaobis riverbed" style = "width:250px;height:400px;margin-right:15px;float:left">

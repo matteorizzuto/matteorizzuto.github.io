@@ -2,6 +2,7 @@
 title: "<h1>Counting species: a test of two methods</h1>"
 permalink: /past-research/5_SpeciesDiversityMethods
 collection: pastresearch
+excerpt: 'Ecologists use a variety of methods to count animals in the wild. Often, choosing the 'best' one is tricky. This study compared two common techniques to count wildlife, to help researchers make an informed choice.'
 ---
 
 <img src="../images/bio_tools.png" alt="A wildlife biologist's set of tools: poop and cameras" style = "width:400px;height:250px;margin-right:15px;float:right">
