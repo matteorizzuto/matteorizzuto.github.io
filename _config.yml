@@ -185,8 +185,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
+  currentresearch:
+    output: true
+    permalink: /:collection/:path/
+  pastresearch:
+    output: true
+    permalink: /:collection/:path/
+      
 # Defaults
 defaults:
   # _posts
