@@ -250,7 +250,7 @@ defaults:
   # _currentresearch
   - scope:
       path: ""
-      type: portfolio
+      type: currentresearch
     values:
       layout: single
       author_profile: true
@@ -258,7 +258,7 @@ defaults:
   # _pastresearch
   - scope:
       path: ""
-      type: portfolio
+      type: pastresearch
     values:
       layout: single
       author_profile: true
