@@ -1,7 +1,7 @@
 ---
 title: "<h1>Nutrient transport by animals</h1>"
 permalink: /research/2_ConsumerNutrientTransport
-collection: currentresearch
+collection: research
 ---
 
 <img src="" alt="" style = "width:250px;height:400px;margin-right:15px;float:left">
