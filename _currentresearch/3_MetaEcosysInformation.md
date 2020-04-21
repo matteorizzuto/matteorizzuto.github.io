@@ -1,6 +1,6 @@
 ---
 title: "<h1>Integrating Information in Meta-ecosystems</h1>"
-permalink: /current-research/3_MetaEcosysInformation
+permalink: /research/3_MetaEcosysInformation
 collection: currentresearch
 ---
 

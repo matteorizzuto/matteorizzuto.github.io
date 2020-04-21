@@ -1,6 +1,6 @@
 ---
 title: "<h1>Food quality and consumers' home range size</h1>"
-permalink: /current-research/1_StoichHomeRanges
+permalink: /research/1_StoichHomeRanges
 collection: currentresearch
 ---
 

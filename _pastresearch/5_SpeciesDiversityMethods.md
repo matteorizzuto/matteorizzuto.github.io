@@ -1,6 +1,6 @@
 ---
 title: "<h1>Counting species: a test of two methods</h1>"
-permalink: /past-research/5_SpeciesDiversityMethods
+permalink: /research/past-research/5_SpeciesDiversityMethods
 collection: pastresearch
 excerpt: 'Ecologists use a variety of methods to count animals in the wild. Often, choosing the 'best' one is tricky. This study compared two common techniques to count wildlife, to help researchers make an informed choice.'
 ---

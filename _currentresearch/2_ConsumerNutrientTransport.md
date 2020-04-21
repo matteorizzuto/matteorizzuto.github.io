@@ -1,6 +1,6 @@
 ---
 title: "<h1>Nutrient transport by animals</h1>"
-permalink: /current-research/2_ConsumerNutrientTransport
+permalink: /research/2_ConsumerNutrientTransport
 collection: currentresearch
 ---
 
