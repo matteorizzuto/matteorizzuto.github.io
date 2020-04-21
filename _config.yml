@@ -189,9 +189,9 @@ collections:
   currentresearch:
     output: true
     permalink: /:collection/:path/
-  pastresearch:
-    output: true
-    permalink: /:collection/:path/
+  # pastresearch:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -257,13 +257,13 @@ defaults:
       author_profile: true
       share: true
   # _pastresearch
-  - scope:
-      path: ""
-      type: pastresearch
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: pastresearch
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
