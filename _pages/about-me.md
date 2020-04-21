@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: default
 title: "About Me"
 permalink: /about-me/
 author_profile: true
