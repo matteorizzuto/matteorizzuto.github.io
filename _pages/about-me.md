@@ -1,5 +1,4 @@
 ---
-layout: default
 title: " "
 permalink: /about-me/
 author_profile: true
