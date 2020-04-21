@@ -1,5 +1,5 @@
 ---
-title: "<h1>Current Research</h1>"
+title: " "
 permalink: /research/
 author_profile: true
 redirect_from:

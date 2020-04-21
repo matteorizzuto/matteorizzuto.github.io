@@ -1,9 +1,9 @@
 ---
 title: "<h1>Past Research</h1>"
-permalink: /past-research/
+permalink: /research/past-research/
 author_profile: true
 redirect_from:
-  - /past-research
+  - /research/past-research
 ---
 
 {% include base_path %}
