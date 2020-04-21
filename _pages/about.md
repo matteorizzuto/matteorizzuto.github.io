@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 <br>
-Hi! My name is Matteo and I am an ecologist. I study how organisms interactions shape the world around them.
+# Hi and welcome to my website! My name is Matteo and I am an ecologist. I study how organisms interactions shape the world around them.
 
-<br>
-Welcome to my website!
+My research focuses on how energy, matter, and information shape the interactions between organisms and their environment. I work to expand models of ecosystem functioning, using a mix of field-based and theoretical studies. I do this by measuring exchanges of matter, energy, and information between organisms and their environment, and developing new theoretical models to predict how ecosystems change as a result. My goal is to expand our knowledge of ecosystem functioning, to improve how we predict and mitigate the impact of human activities on our planet.
 
 I am in the 4th year of my Ph.D. in the [Ecosystem Ecology Lab](http://shawnleroux.wixsite.com/lerouxlab) at [Memorial University](www.mun.ca/biology).
 
