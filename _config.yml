@@ -186,7 +186,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  currentresearch:
+  research:
     output: true
     permalink: /:collection/:path/
   # pastresearch:
