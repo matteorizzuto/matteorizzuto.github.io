@@ -2,7 +2,7 @@
 title: "<h1>Food quality and consumer home range size</h1>"
 permalink: /research/1_StoichOfSpaceUse
 collection: research
-excerpt: 'Animals are constantly on the move to find and exploit high quality food patches. These movement, which happen at small spatial scale and on a daily basis, hold the potential to link habitats with different productivities and nutrients availability. I am working to develop a mathematical model to describe these links and their implications for ecosystem dynamics and conservation policies'
+excerpt: 'Food quality varies over space and time in natural systems. Animals respond to this variation by making space use decision. I work with data from a small terrestrial herbivore to test if it varies its home range size with variation in its preferred foods' nutrient content'
 ---
 
 <!-- <img src="" alt="" style = "width:250px;height:400px;margin-right:15px;float:left"> -->
