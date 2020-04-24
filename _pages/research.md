@@ -13,10 +13,10 @@ redirect_from:
 {% endfor %}
 
 
-# Past research
-
+<!-- # Past research -->
+<!--
 {% include base_path %}
 
 {% for post in site.pastresearch reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
