@@ -6,6 +6,7 @@ permalink: /teaching/2017_MUN_PrincBio
 venue: "Memorial University of Newfoundland, Department of Biology"
 date: 2017-01-01
 location: "St. John's, Canada"
+excerpt: " "
 ---
 
 - Demonstrator during practical laboratories
