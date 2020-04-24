@@ -2,7 +2,7 @@
 title: "<h1>Nutrient transport by animals</h1>"
 permalink: /research/3_ConsumerNutrientTransport
 collection: research
-excerpt: 'Animals are constantly on the move to find and exploit high quality food patches. These movement, which happen at small spatial scale and on a daily basis, hold the potential to link habitats with very different productivities and nutrients availability. I am working to develop a mathematical model to describe these links and their implications for ecosystem dynamics and conservation policies'
+excerpt: 'Animals are constantly on the move to find and exploit high quality food patches. These movement, which happen at small spatial scale and on a daily basis, hold the potential to link habitats with different productivities and nutrients availability. I am working to develop a mathematical model to describe these links and their implications for ecosystem dynamics and conservation policies'
 ---
 
 <!-- <img src="" alt="" style = "width:250px;height:400px;margin-right:15px;float:left"> -->
