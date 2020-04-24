@@ -9,8 +9,8 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "Past Research"
-  #   url: /research/past-research/
+  - title: "Past Projects"
+    url: /past-research/
 
   - title: "Publications"
     url: /publications/

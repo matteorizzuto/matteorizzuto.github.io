@@ -1,6 +1,6 @@
 ---
 title: "<h1>Activity Budget Scaling in Carnivores</h1>"
-permalink: /research/past-research/4_ActivityScaling
+permalink: /past-research/4_ActivityScaling
 collection: pastresearch
 excerpt: 'Carnivores live a high-risks, high-rewards life: they eat highly energetic food but it costs a lot of energy to hunt. I used a mathematical models to study how different-sized species respond to these challenges.'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "<h1>Baboon Population Ecology</h1>"
-permalink: /research/past-research/6_Tsaobis
+permalink: /past-research/6_Tsaobis
 collection: pastresearch
 excerpt: 'Baboons live in large group with complex social structures. I worked with behavioural and population ecologist to learn more about how these social groups work.'
 ---
