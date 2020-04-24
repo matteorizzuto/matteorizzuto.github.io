@@ -1,13 +1,12 @@
 ---
-title: "<h1>Food quality and consumers home range size</h1>"
-permalink: /research/1_StoichOfSpaceUse
+title: "<h1>Nutrient transport by animals</h1>"
+permalink: /research/2_ConsumerNutrientTransport
 collection: research
-excerpt: 'Food quality varies over space and time in natural systems. Animals respond to this variation by making space use decision. I work with data from a small terrestrial herbivore to test if it varies its home range size with variation in its preferred foods' nutrient content.'
+excerpt: 'Animals are constantly on the move to find and exploit high quality food patches. These movement, which happen at small spatial scale and on a daily basis, hold the potential to link habitats with different productivities and nutrients availability. I am working to develop a mathematical model to describe these links and their implications for ecosystem dynamics and conservation policies'
 ---
 
 <!-- <img src="" alt="" style = "width:250px;height:400px;margin-right:15px;float:left"> -->
-Food varies in its quality over space and time. Animals, faced with this variability in their source of nourishment, may adjust the way they use space to increase their access to high-quality food. I am using predictions of food carbon, nitrogen, and phosphorus content and relocation data snowshoe hares to test whether variation in food quality over space influences home range size of this small herbivore. My co-authors and I used an innovative nutrient distribution model to generate predictions of plant content of key nutrients over the area occupied by our snowshoe hare. We then used linear models to investigate if mean resource quality, or the variability around the mean, can predict home range size. We found that home range size is strongly dependent on the plants' relative content of certain elements, like nitrogen. Our results have strong implications for studies of animals' spatial ecology, as well as for models of ecosystem trophic pathways and conservation and management policies.
-
+Consumer, herbivores and carnivores, constantly move across different ecosystems in their search for food. Whether it is plants or other animals, this food is patchily distributed over the landscape and different patches vary in their quality --- that is, its content of key nutrients like nitrogen and phosphorus. Optimal Foraging Theory postulates that consumers will always look for the more 'bang for buck' when it comes to food: the best quality at the lowest cost. Thus, foraging movements consumers make to find and forage on high quality food may establish links between areas of varying quality. For the third chapter of my Ph.D thesis, I am developing a mathematical model that tracks the movements of consumers among areas of high and low food quality, and the assesses their effects in terms of increased resource depletion, nutrient input in ecosystem reservoirs, and nutrient cycling in meta-ecosystems. My goal is to contribute painting a clearer picture of the effects of small-scale, frequent nutrient movements mediated by consumers on ecosystem dynamics. In turn, this may help inform conservation practices and policies, like establishment of wildlife corridors.
 
 ## Relevant Publications
 
