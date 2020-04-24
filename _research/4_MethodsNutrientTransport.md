@@ -1,6 +1,6 @@
 ---
 title: "<h1>Methods to study animal-mediated nutrient transport in the field</h1>"
-permalink: /research/1_MethodsNutrientTransport
+permalink: /research/4_MethodsNutrientTransport
 collection: research
 excerpt: 'Nutrient transfer across ecosystem boundaries is a fundamental part of ecosystem functioning. Yet, it is quite challenging to study it in the field. I am collaborating with researchers from Yale University to develop a framework to help future studies of this phenomenon.'
 ---
