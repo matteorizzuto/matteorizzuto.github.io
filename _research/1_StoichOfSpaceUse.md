@@ -2,7 +2,7 @@
 title: "<h1>Food quality and consumer home range size</h1>"
 permalink: /research/1_StoichOfSpaceUse
 collection: research
-excerpt: 'Food quality varies over space and time in natural systems. Animals respond to this variation by making space use decision. I work with data from a small terrestrial herbivore to test if it varies its home range size with variation in its preferred foods' nutrient content'
+excerpt: "Food quality varies over space and time in natural systems. Animals respond to this variation by making space use decision. I work with data from a small terrestrial herbivore to test if it varies its home range size with variation in its preferred foods' nutrient content"
 ---
 
 <!-- <img src="" alt="" style = "width:250px;height:400px;margin-right:15px;float:left"> -->
