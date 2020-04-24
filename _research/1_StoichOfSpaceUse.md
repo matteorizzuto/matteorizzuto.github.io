@@ -1,6 +1,6 @@
 ---
 title: "<h1>Food quality and consumer home range size</h1>"
-permalink: /research/2_ConsumerNutrientTransport
+permalink: /research/1_StoichOfSpaceUse
 collection: research
 excerpt: 'Animals are constantly on the move to find and exploit high quality food patches. These movement, which happen at small spatial scale and on a daily basis, hold the potential to link habitats with different productivities and nutrients availability. I am working to develop a mathematical model to describe these links and their implications for ecosystem dynamics and conservation policies'
 ---
