@@ -1,6 +1,6 @@
 ---
 title: "<h1>Integrating Information in Meta-ecosystems</h1>"
-permalink: /research/3_MetaEcosysInformation
+permalink: /research/2_MetaEcosysInformation
 collection: research
 excerpt: 'Information is a fundamental currency of life and is everywhere in nature. Yet, it has so far been neglected in ecological research. I am co-leading a team of researchers from various ecological backgrounds to integrate biological information theory with metaecosystem theory. Our goal is to provide a research framework to help shed light on the role of this currency in shaping natural systems.'
 ---
