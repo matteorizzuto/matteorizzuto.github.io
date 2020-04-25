@@ -2,7 +2,7 @@
 title: "<h1>Roe and Red Deer in Trentino and Technology Project</h1>"
 permalink: /past-research/3_2C2Tproject
 collection: pastresearch
-excerpt: "<img src="../images/trentino.png" style = "width:100px;height:100px;margin-right:4px;float:right"> Herbivores often move large distance to follow plants blooming waves. In a team of international researchers, we studied the migrations of roe deers in the Eastern Alps."
+excerpt: '<img src="../images/trentino.png" style = "width:100px;height:100px;margin-right:4px;float:right"> Herbivores often move large distance to follow plants blooming waves. In a team of international researchers, we studied the migrations of roe deers in the Eastern Alps.'
 ---
 
 <img src="../images/trentino.png" alt="Chasing roe deer made for some spectacular sightseeing" style = "width:300px;height:300px;margin-right:15px;float:right">
