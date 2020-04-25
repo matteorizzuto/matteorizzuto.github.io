@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="http://docs.google.com/viewer?url=https://github.com/matteorizzuto/mr-vita/blob/master/mr-vita.pdf&embedded=true" height="1000" width = "1000" style = "max-width:100vw" frameborder="0"></iframe>
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -58,4 +60,4 @@ Teaching
 ======
   <ul style="list-style: none;">{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
