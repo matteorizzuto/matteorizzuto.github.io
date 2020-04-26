@@ -20,7 +20,9 @@ After graduating my MRes with a Distinction, I moved to St. John's, Newfoundland
 
 <img src="../images/newfoundland.png" alt="My adoptive home for the last four years, amazing and rugged Newfoundland" style="float:center">
 
-# Other then Science
-I am a traveler, hiker, and photographer. I enjoy visiting new places and meeting new cultures. Books have always been an important part of my life: a recent count at my parents' house revealed I grew up amidst more than 3400 books. So, more often than not, you will find a book in my hand or in my backpack.
+# Other than science
+I am a traveler, hiker, and photographer. I enjoy visiting new places and meeting new cultures, and at times going back home to Italy to be with family and friends.
+Books have always been an important part of my life: a recent count at my parents' house revealed I grew up amidst more than 3400 books. So, more often than not, you will find a book in my hand or in my backpack.
+I also enjoy yoga and I recently picked up watercolouring. 
 
 <img src="../images/aoraki.png" alt="Hiking at the feet of Aoraki - Mount Cook, in New Zealand's Southern Island in May 2019" style="float:center">
