@@ -2,7 +2,7 @@
 title: "<h1>Elemental composition of Vertebrates</h1>"
 permalink: /past-research/7_VertebratesStoich
 collection: pastresearch
-excerpt: '<img src="../images/lyinghare.png" style = "width:100 px;height:67px;margin-right:4px;float:right"> What chemical elements make up a vertebrate and in what proportions? Working with theoretical, wildlife, and landscape ecologists, I studied the elemental composition of a small vertebrate and how it varies among individuals. Photo credit: Juliana Balluffi-Fry.'
+excerpt: 'What chemical elements make up a vertebrate and in what proportions? Working with theoretical, wildlife, and landscape ecologists, I studied the elemental composition of a small vertebrate and how it varies among individuals. Photo credit: Juliana Balluffi-Fry.'
 ---
 
 <img src="../images/lyinghare.png" alt="Snowshoe hares are a keystone species in the boreal forests of North America" style = "width:400px;height:250px;margin-right:15px;float:left">
