@@ -1,5 +1,5 @@
 ---
-title: "<h2>Integrating Information in Meta-ecosystems</h2>"
+title: "<h3>Integrating Information in Meta-ecosystems</h3>"
 permalink: /research/3_MetaEcosysInformation
 collection: research
 excerpt: "Information is a fundamental, if understudied, currency of life and is everywhere in nature. I am co-leading a team of researchers from various ecological backgrounds to integrate biological information theory with metaecosystem theory. Our goal is to provide a research framework to help shed light on the role of this currency in shaping natural systems."

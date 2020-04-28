@@ -1,5 +1,5 @@
 ---
-title: "<h2>Predator-prey interactions in the Western Alps</h2>"
+title: "<h3>Predator-prey interactions in the Western Alps</h3>"
 permalink: /past-research/2_WolfCHamois
 collection: pastresearch
 excerpt: 'The Western Alps natural recolonization by the wolf is a region-wide natural experiment. I studied how prey change their behavior once the predator returns after decades of absence.'

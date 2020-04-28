@@ -1,5 +1,5 @@
 ---
-title: "<h2>Roe and Red Deer in Trentino and Technology Project</h2>"
+title: "<h3>Roe and Red Deer in Trentino and Technology Project</h3>"
 permalink: /past-research/3_2C2Tproject
 collection: pastresearch
 excerpt: 'Herbivores often move large distance to follow plants blooming waves. In a team of international researchers, we studied the migrations of roe deers in the Eastern Alps.'
