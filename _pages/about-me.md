@@ -10,7 +10,7 @@ My academic accomplishments are listed in my [cv](https://matteorizzuto.github.i
 I was born and raised in Turin, Italy. Nestled among the Western Alps, Turin was Italy's first capital city and has a strong connection with its astonishing natural environment. Its strategy location means you are always no more than a couple of hours away from the nearest mountains --- something that hugely influenced my childhood and teenage years. My family would take long summer vacations at out mountain cabin, where I would spend days trumping around the yard, observing ant nests, and hiking. Combined with my love for the works of J.R.R. Tolkien, these early experiences influenced me so much that by the time I reached 12 I knew I wanted to be a biologist. After graduating high school, where I briefly considered a linguistic career, I got my BSc in Biology from the [University of Turin](www.unito.it/en).
 <figure>
 <img src="../images/turin.png" alt="My hometown, Turin (Italy), in all its gorgeous baroque beauty framed by the snowcapped Alps" style = "float:center">
-<figcaption>My hometown, Turin (Italy), in all its gorgeous baroque beauty framed by the snowcapped Alp</figcaption>
+<figcaption>My hometown, Turin (Italy), in all its gorgeous baroque beauty framed by the snowcapped Alps</figcaption>
 </figure>
 
 # Graduate Work
