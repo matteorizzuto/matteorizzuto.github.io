@@ -1,7 +1,7 @@
 ---
-title: "Bioacoustics of lemurs"
+title: "<h3 style="margin-bottom:0;">Bioacoustics of lemurs</h3>"
 permalink: /past-research/1_IndriAcoustics
-collection: pastresearch 
+collection: pastresearch
 excerpt: 'Group living animals often communicate with others as a group. I studied if, from a group-produced song, we can extract information about the group's members.'
 ---
 
