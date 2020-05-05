@@ -253,7 +253,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: archive
+      layout: portfolio
       author_profile: true
       share: true
   # _pastresearch
@@ -261,7 +261,7 @@ defaults:
       path: ""
       type: pastresearch
     values:
-      layout: single
+      layout: archive
       author_profile: true
       share: true
 
