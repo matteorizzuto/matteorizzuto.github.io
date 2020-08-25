@@ -10,4 +10,4 @@ Food varies in its quality over space and time. Animals, faced with this variabi
 
 ## Relevant Publications
 
-Coming soon!
+<a href="https://doi.org/10.1101/2020.08.13.248831">Forage stoichiometry predicts the home range size of a small terrestrial herbivore</a>
