@@ -1,11 +1,10 @@
 ---
-title: "Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. R., and Balluffi-Fry, J. (2019). *Patterns and potential drivers of intraspecific variability in the body C, N, P composition of a terrestrial vertebrate, the snowshoe hare (<i>Lepus americanus</i>)*. Ecology and Evolution, 9, 14453--14464."
+title: "<u>Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup></u>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. R., and Balluffi-Fry, J. (2019). Patterns and potential drivers of intraspecific variability in the body C, N, P composition of a terrestrial vertebrate, the snowshoe hare (<i>Lepus americanus</i>). Ecology and Evolution, 9, 14453--14464. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/2_Intraspecific_Stoichiometry
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/2_Intraspecific_Stoichiometry)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1002/ece3.5880)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.7884854)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Intraspecific_Stoichiometry.bib)'
 ---
 
@@ -20,6 +19,5 @@ excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span
 </p>
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1002/ece3.5880)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.7884854.v1)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.7884854)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Intraspecific_Stoichiometry.bib)
