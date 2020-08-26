@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://github.com/matteorizzuto/mr-vita/blob/master/mr-vita.pdf)
+[PDF](https://drive.google.com/file/d/1GRr2Ngi2KcCetDHJEZVjO52PlbnZQBXd/view?usp=sharing)
 
 Education
 ======
