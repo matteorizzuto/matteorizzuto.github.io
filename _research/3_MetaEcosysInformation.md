@@ -11,4 +11,4 @@ I am co-leading a team of researchers and scholars from a variety of ecological 
 
 ## Relevant Publication
 
-<a href="https://doi.org/10.32942/osf.io/hc83u">Forage stoichiometry predicts the home range size of a small terrestrial herbivore</a>
+<a href="https://doi.org/10.32942/osf.io/hc83u">Filling the Information Gap in Meta-Ecosystem Ecology</a>
