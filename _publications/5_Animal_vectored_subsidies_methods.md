@@ -1,5 +1,5 @@
 ---
-title: "Ellis-Soto, D.<sup><a title='Corresponding author'>✉</a></sup>, Ferraro, K. M., <u>Rizzuto, M.</u>, Briggs, E., Monk, J. D., and Schmitz, O. J. (2020). A Methodological Roadmap to Quantify Animal-vectored Spatial Ecosystem Subsidies. EcoEvoRxiv. <img src='../images/preprint.png'>"
+title: "<b>5.</b> Ellis-Soto, D.<sup><a title='Corresponding author'>✉</a></sup>, Ferraro, K. M., <u>Rizzuto, M.</u>, Briggs, E., Monk, J. D., and Schmitz, O. J. (2020). A Methodological Roadmap to Quantify Animal-vectored Spatial Ecosystem Subsidies. EcoEvoRxiv. <img src='../images/preprint.png'>"
 collection: publications
 permalink: /publication/5_Animal_vectored_subsidies_methods
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/5_Animal_vectored_subsidies_methods)
