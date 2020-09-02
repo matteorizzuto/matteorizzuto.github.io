@@ -10,4 +10,4 @@ Nutrient transport and mobilization across ecosystem boundaries is a fundamental
 
 ## Relevant Publications
 
-Coming soon!
+<a href="https://doi.org/10.32942/osf.io/zyx84">Forage stoichiometry predicts the home range size of a small terrestrial herbivore</a>
