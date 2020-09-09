@@ -10,4 +10,4 @@ Food varies in its quality over space and time. Animals, faced with this variabi
 
 <h3>Relevant Publications</h3>
 
-<u>**Rizzuto, M.**</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Richmond, I. C., Heckford, T. R., Balluffi-Fry, J., Wiersma, Y. F. (2020).[*Forage stoichiometry predicts the home range size of a small terrestrial herbivore*](https://doi.org/10.1101/2020.08.13.248831). bioRxiv. ![preprint](../images/preprint.png)
+**Rizzuto, M.**<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Richmond, I. C., Heckford, T. R., Balluffi-Fry, J., Wiersma, Y. F. (2020).[*Forage stoichiometry predicts the home range size of a small terrestrial herbivore*](https://doi.org/10.1101/2020.08.13.248831). bioRxiv. ![preprint](../images/preprint.png)
