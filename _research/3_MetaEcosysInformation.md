@@ -11,4 +11,4 @@ I am co-leading a team of researchers and scholars from a variety of ecological 
 
 ## Relevant Publications
 
-<a href="https://doi.org/10.32942/osf.io/hc83u">Filling the Information Gap in Meta-Ecosystem Ecology</a>
+Little, C. J.<sup>\*</sup>, **Rizzuto, M.**<sup>\*</sup>, Luhring, T. M., Monk, J. D., Nowicki, R. J., Paseka, R. E., Stegen, J. C., Symons, C. C., Taub, F. B., Yan, J. D. L. (2020). [*Filling the Information Gap in Meta-ecosystem Ecology.*](../publication/8_Information_metaecosystems) EcoEvoRxiv. ![preprint](../images/preprint.png)
