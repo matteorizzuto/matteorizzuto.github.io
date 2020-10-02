@@ -1,7 +1,7 @@
 ---
 title: "<b>7\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Richmond, I. C., Heckford, T. R., Balluffi-Fry, J., Wiersma, Y. F. (2020). **Forage stoichiometry predicts the home range size of a small terrestrial herbivore.** bioRxiv. <img src='../images/preprint.png'>"
 collection: publications
-permalink: /publication/7_Home_range_stoichiometry
+permalink: /publication/07_Home_range_stoichiometry
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/7_Home_range_stoichiometry)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/2020.08.13.248831)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.12798296)
