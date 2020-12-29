@@ -1,5 +1,5 @@
 ---
-title: "<b>4\\.</b> Balluffi-Fry, J.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Wiersma, Y. F., Heckford, T. R., <u>Rizzuto, M.</u>, Richmond, I. C., Vander Wal, E. (2020) **Quantity-quality trade-offs revealed using a multiscale test of herbivore resource selection on elemental landscapes.** Ecology and Evolution, 00, 1--13. <img src='../images/open_access.png'>"
+title: "<b>4\\.</b> Balluffi-Fry, J.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Wiersma, Y. F., Heckford, T. R., <u>Rizzuto, M.</u>, Richmond, I. C., Vander Wal, E. (2020) **Quantity-quality trade-offs revealed using a multiscale test of herbivore resource selection on elemental landscapes.** Ecology and Evolution, 10, 13847--13859. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publication/04_Quality_quantity_tradeoffs_moose
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/04_Quality_quantity_tradeoffs_moose)
