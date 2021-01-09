@@ -10,4 +10,4 @@ Consumer, herbivores and carnivores, constantly move across different ecosystems
 
 <h3>Relevant Publications</h3>
 
-Ellis-Soto, D.<sup><a title='Corresponding author'>✉</a></sup>, Ferraro, K. M., **Rizzuto, M.**, Briggs, E., Monk, J. D., and Schmitz, O. J. (2020). [*A methodological roadmap to quantify animal-vectored spatial ecosystem subsidies*](https://doi.org/10.32942/osf.io/zyx84). EcoEvoRxiv. ![preprint](../images/preprint.png)
+Ellis-Soto, D.<sup><a title='Corresponding author'>✉</a></sup>, Ferraro, K.M., **Rizzuto, M.**, Briggs, E., Monk, J.D., and Schmitz, O.J. (2020). [*A methodological roadmap to quantify animal-vectored spatial ecosystem subsidies*](https://doi.org/10.32942/osf.io/zyx84). EcoEvoRxiv. ![preprint](../images/preprint.png)
