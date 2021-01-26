@@ -1,6 +1,6 @@
 ---
 title: "<h3>Nutrient transport by animals</h3>"
-permalink: /research/2_ConsumerNutrientTransport
+permalink: /research/3_ConsumerNutrientTransport
 collection: research
 excerpt: "Animals are constantly on the move to find and exploit high quality food patches. These movement, which happen at small spatial scale and on a daily basis, hold the potential to link habitats with different productivities and nutrients availability. I am working to develop a mathematical model to describe these links and their implications for ecosystem dynamics and conservation policies."
 ---
@@ -11,3 +11,7 @@ Consumer, herbivores and carnivores, constantly move across different ecosystems
 <h3>Relevant Publications</h3>
 
 Ellis-Soto, D., Ferraro, K.M., **Rizzuto, M.**, Briggs, E., Monk, J.D., and Schmitz, O.J. (2020). [*A methodological roadmap to quantify animal-vectored spatial ecosystem subsidies*](https://doi.org/10.32942/osf.io/zyx84). EcoEvoRxiv. ![preprint](../images/preprint.png)
+
+Balluffi-Fry, J., Leroux, S.J., Wiersma, Y.F., Heckford, T.R., **Rizzuto, M.**, Richmond, I.C., Vander Wal, E. (2020). [*Quantity-quality trade-offs revealed using a multiscale test of herbivore resource selection on elemental landscapes.*](https://doi.org/10.1002/ece3.6975) Ecology and Evolution, 10, 13847--13859. ![open_access](../images/open_access.png)
+
+**Rizzuto, M.**<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. R., and Balluffi-Fry, J. (2019). [*Patterns and potential drivers of intraspecific variability in the body C, N, and P composition of a terrestrial consumer, the snowshoe hare (Lepus americanus).*](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5880) Ecology and Evolution, 9, 14453--14464. ![open_access](../images/open_access.png)

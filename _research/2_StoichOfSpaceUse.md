@@ -1,6 +1,6 @@
 ---
 title: "<h3>Food quality and consumer home range size</h3>"
-permalink: /research/1_StoichOfSpaceUse
+permalink: /research/2_StoichOfSpaceUse
 collection: research
 excerpt: "Food quality varies over space and time in natural systems. Animals respond to this variation by making space use decision. I work with data from a small terrestrial herbivore to test if it varies its home range size with variation in its preferred foods' nutrient content"
 ---

@@ -1,8 +1,8 @@
 ---
 title: '<h3 style="padding:0px">Elemental composition of Vertebrates</h3>'
-permalink: /past-research/7_VertebratesStoich
-collection: pastresearch
-excerpt: 'What chemical elements make up a vertebrate and in what proportions? Working with theoretical, wildlife, and landscape ecologists, I studied the elemental composition of a small vertebrate and how it varies among individuals. Photo credit: Juliana Balluffi-Fry.'
+permalink: /research/1_VertebratesStoich
+collection: research
+excerpt: 'What chemical elements make up a vertebrate and in what proportions? Working with theoretical, wildlife, and landscape ecologists, I studied the elemental composition of a small vertebrate and how it varies among individuals.
 ---
 
 <img src="../images/lyinghare.png" alt="Snowshoe hares are a keystone species in the boreal forests of North America" style = "width:400px;height:250px;margin-right:15px;float:left">
@@ -12,3 +12,5 @@ Photo credit: [Juliana Balluffi-Fry](https://twitter.com/balluffi)
 <h3>Relevant Publications</h3>
 
 **Rizzuto, M.**<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Vander Wal, E., Wiersma, Y. F., Heckford, T. R., and Balluffi-Fry, J. (2019). [*Patterns and potential drivers of intraspecific variability in the body C, N, and P composition of a terrestrial consumer, the snowshoe hare (Lepus americanus).*](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5880) Ecology and Evolution, 9, 14453--14464. ![open_access](../images/open_access.png)
+
+Balluffi-Fry, J., Leroux, S.J., Wiersma, Y.F., Heckford, T.R., **Rizzuto, M.**, Richmond, I.C., Vander Wal, E. (2020). [*Quantity-quality trade-offs revealed using a multiscale test of herbivore resource selection on elemental landscapes.*](https://doi.org/10.1002/ece3.6975) Ecology and Evolution, 10, 13847--13859. ![open_access](../images/open_access.png)
