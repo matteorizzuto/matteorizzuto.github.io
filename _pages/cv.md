@@ -9,14 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div id="mycvobject"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("../files/MRizzuto_CV.pdf", "#mycvobject");</script>
-
-<!-- <iframe src="http://docs.google.com/gview?url=https://&embedded=true"
-style="width:600px; height:1000px;" frameborder="0"></iframe> -->
-
-[PDF](https://drive.google.com/file/d/1GRr2Ngi2KcCetDHJEZVjO52PlbnZQBXd/view?usp=sharing)
+[PDF](https://drive.google.com/file/d/114MO8j4Ay5ixvX_1XZdOsPJr-RPzIrmR/view?usp=sharing)
 
 Education
 ======
