@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="http://docs.google.com/gview?url=https://drive.google.com/file/d/114MO8j4Ay5ixvX_1XZdOsPJr-RPzIrmR/view?usp=sharing&embedded=true" 
-style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://www.dropbox.com/s/4g7fucg9bapu8qp/mrizzuto_cv.pdf&embedded=true"
+style="width:600px; height:1000px;" frameborder="0"></iframe>
 
 [PDF](https://drive.google.com/file/d/1GRr2Ngi2KcCetDHJEZVjO52PlbnZQBXd/view?usp=sharing)
 
