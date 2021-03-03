@@ -7,19 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div id="adobe-dc-view" style="height: 1000px; width: 1000px; max-width:100vw"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){
-		var adobeDCView = new AdobeDC.View({clientId: "00e8dfd81d9d4116ae43565b4f26e6aa", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://drive.google.com/file/d/114MO8j4Ay5ixvX_1XZdOsPJr-RPzIrmR/view?usp=sharing"}},
-			metaData:{fileName: "MRizzuto_CV.pdf"}
-		}, {embedMode: "SIZED_CONTAINER"});
-	});
-</script>
-
-<!-- {% include base_path %}
+{% include base_path %}
 
 [PDF](https://drive.google.com/file/d/1GRr2Ngi2KcCetDHJEZVjO52PlbnZQBXd/view?usp=sharing)
 
@@ -58,18 +46,18 @@ Education
 
 Publications
 ======
-  <ul style="list-style: none;">{% for post in site.publications %}
+  <ul style="list-style: none;">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
 ======
-  <ul style="list-style: none;">{% for post in site.talks %}
+  <ul style="list-style: none;">{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 Teaching
 ======
-  <ul style="list-style: none;">{% for post in site.teaching %}
+  <ul style="list-style: none;">{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
