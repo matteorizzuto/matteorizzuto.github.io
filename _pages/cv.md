@@ -11,7 +11,7 @@ redirect_from:
 
 <div id="mycvobject"></div>
 <script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("/files/MRizzuto_CV.pdf", "#mycvobject");</script>
+<script>PDFObject.embed("../files/MRizzuto_CV.pdf", "#mycvobject");</script>
 
 <!-- <iframe src="http://docs.google.com/gview?url=https://&embedded=true"
 style="width:600px; height:1000px;" frameborder="0"></iframe> -->
