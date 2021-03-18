@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<embed src="../files/MRizzuto_CV.pdf" type="application/pdf">
+<iframe src="../files/MRizzuto_CV.pdf" width="100%" height="100%">
 
 <!-- {% include base_path %}
 
