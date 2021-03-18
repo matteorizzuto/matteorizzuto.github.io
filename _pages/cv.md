@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<embed src="../files/MRizzuto_CV.pdf" type="application/pdf">
+
+<!-- {% include base_path %}
 
 [PDF](https://drive.google.com/file/d/114MO8j4Ay5ixvX_1XZdOsPJr-RPzIrmR/view?usp=sharing)
 
@@ -60,4 +62,4 @@ Teaching
 ======
   <ul style="list-style: none;">{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
