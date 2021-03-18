@@ -14,4 +14,4 @@ Food varies in its quality over space and time. Animals, faced with this variabi
 
 Balluffi-Fry, J., Leroux, S.J., Wiersma, Y.F., Heckford, T.R., **Rizzuto, M.**, Richmond, I.C., Vander Wal, E. (2020). [*Quantity-quality trade-offs revealed using a multiscale test of herbivore resource selection on elemental landscapes.*](https://doi.org/10.1002/ece3.6975) Ecology and Evolution, 10, 13847--13859. ![open_access](../images/open_access.png)
 
-Richmond, I.C., Leroux, S.j., Vander Wal, E., Heckford, T.R., **Rizzuto, M.**, Balluffi-Fry,J., Kennah, J., Wiersma, Y.F. (2020). [*Temporal variation and its drivers in the elemental traits of four boreal plant species.*](https://doi.org/10.1093/jpe/rtaa103) Journal of Plant Ecology, rtaa103.
+Richmond, I.C., Leroux, S.j., Vander Wal, E., Heckford, T.R., **Rizzuto, M.**, Balluffi-Fry,J., Kennah, J., Wiersma, Y.F. (2020). [*Temporal variation and its drivers in the elemental traits of four boreal plant species.*](https://doi.org/10.1093/jpe/rtaa103) Journal of Plant Ecology, 14, 398--413.
