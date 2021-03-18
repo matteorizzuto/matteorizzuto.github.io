@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="../files/MRizzuto_CV.pdf" width="100%" height="200%">
+<iframe src="../files/MRizzuto_CV.pdf" width="100%" height="1000px">
 
 <!-- {% include base_path %}
 
