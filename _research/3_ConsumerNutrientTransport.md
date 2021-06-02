@@ -10,7 +10,7 @@ Consumer, herbivores and carnivores, constantly move across different ecosystems
 
 <h3>Relevant Publications</h3>
 
-Ellis-Soto, D., Ferraro, K.M., **Rizzuto, M.**, Briggs, E., Monk, J.D., and Schmitz, O.J. (2020). [*A methodological roadmap to quantify animal-vectored spatial ecosystem subsidies*](https://doi.org/10.32942/osf.io/zyx84). EcoEvoRxiv. ![preprint](../images/preprint.png)
+Ellis-Soto, D., Ferraro, K.M., **Rizzuto, M.**, Briggs, E., Monk, J.D., and Schmitz, O.J. (2021). [*A methodological roadmap to quantify animal-vectored spatial ecosystem subsidies*](https://doi.org/10.1111/1365-2656.13538). Journal of Animal Ecology.
 
 Balluffi-Fry, J., Leroux, S.J., Wiersma, Y.F., Heckford, T.R., **Rizzuto, M.**, Richmond, I.C., Vander Wal, E. (2020). [*Quantity-quality trade-offs revealed using a multiscale test of herbivore resource selection on elemental landscapes.*](https://doi.org/10.1002/ece3.6975) Ecology and Evolution, 10, 13847--13859. ![open_access](../images/open_access.png)
 
