@@ -10,7 +10,7 @@ Food varies in its quality over space and time. Animals, faced with this variabi
 
 <h3>Relevant Publications</h3>
 
-**Rizzuto, M.**, Leroux, S.J., Vander Wal, E., Richmond, I. C., Heckford, T. R., Balluffi-Fry, J., Wiersma, Y. F. [*Forage stoichiometry predicts the home range size of a small terrestrial herbivore.*](https://doi.org/10.1101/2020.08.13.248831) bioRxiv. ![preprint](../images/preprint.png)
+**Rizzuto, M.**, Leroux, S.J., Vander Wal, E., Richmond, I. C., Heckford, T. R., Balluffi-Fry, J., Wiersma, Y. F. [*Forage stoichiometry predicts the home range size of a small terrestrial herbivore.*](https://doi.org/10.1101/2020.08.13.248831) Accepted--Highlited Student Paper, Oecologia. ![preprint](../images/preprint.png)
 
 Balluffi-Fry, J., Leroux, S.J., Wiersma, Y.F., Heckford, T.R., **Rizzuto, M.**, Richmond, I.C., Vander Wal, E. (2020). [*Quantity-quality trade-offs revealed using a multiscale test of herbivore resource selection on elemental landscapes.*](https://doi.org/10.1002/ece3.6975) Ecology and Evolution, 10, 13847--13859. ![open_access](../images/open_access.png)
 
