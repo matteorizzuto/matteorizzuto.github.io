@@ -1,5 +1,5 @@
 ---
-title: "<b>7\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Richmond, I.C., Heckford, T.R., Balluffi-Fry, J., Wiersma, Y.F. (2021) **Forage stoichiometry predicts the home range size of a small terrestrial herbivore.**, Oecologia."
+title: "<b>7\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Richmond, I.C., Heckford, T.R., Balluffi-Fry, J., Wiersma, Y.F. (2021) **Forage stoichiometry predicts the home range size of a small terrestrial herbivore.** Oecologia."
 collection: publications
 permalink: /publication/07_Home_range_stoichiometry
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/07_Home_range_stoichiometry)
