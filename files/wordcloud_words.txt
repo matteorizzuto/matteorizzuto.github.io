@@ -34,4 +34,9 @@ animal movement,
 biogeochemistry, 
 landscape ecology, 
 stoichiometry, 
-remote sensing
+remote sensing,
+ecological stoichiometry,
+snowshoe hare,
+boreal forest,
+resource quality,
+space use
