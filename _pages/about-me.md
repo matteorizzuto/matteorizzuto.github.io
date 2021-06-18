@@ -30,7 +30,7 @@ After graduating my MRes with a Distinction, I moved to St. John's, Newfoundland
 
 # Other than science
 I am a traveler, hiker, and photographer. I enjoy visiting new places and meeting new people and cultures, and at times going back home to Italy to be with family and friends.
-Books have always been an important part of my life. A recent count at my parents' house revealed I grew up among more than 3400 books. So, more often than not, you will find a book in my hand or in my backpack. Sometimes, these may be Dungeons \& Dragons books, as I have been an avid player since my high school years.
+Books have always been an important part of my life. A recent count at my parents' house revealed I grew up among more than 3400 books. So, more often than not, you will find a book in my hand or in my backpack. Sometimes, these may be Dungeons & Dragons books, as I have been an avid player since my high school years.
 Finally, during the long Newfoundland and Labrador winters, I developed an interest and a passion for yoga and for watercolours.
 
 <figure>
