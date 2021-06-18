@@ -1,10 +1,10 @@
 ---
-title: "<b>3\\.</b> Heckford, T.R.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Richmond, I.C., Wiersma, Y.F. [*in review*]. **Does where you live influence what you’re made of? Spatial correlates of chemical traits across commonly occurring boreal plants.** <img src='../images/preprint.png'>"
+title: "<b>9\\.</b> Heckford, T.R.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Richmond, I.C., Wiersma, Y.F. [*in review*]. **Does where you live influence what you’re made of? Spatial correlates of chemical traits across commonly occurring boreal plants.** <img src='../images/preprint.png'>"
 collection: publications
-permalink: /publication/03_Spatial_plant_chemical_traits
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/03_Spatial_plant_chemical_traits)
+permalink: /publication/09_Spatial_plant_chemical_traits
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/09_Spatial_plant_chemical_traits)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/2021.01.26.428320)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/03_Spatial_plant_chemical_traits.bib)'
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/09_Spatial_plant_chemical_traits.bib)'
 ---
 
 ### Abstract:

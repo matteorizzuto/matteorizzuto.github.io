@@ -1,11 +1,11 @@
 ---
-title: "<b>6\\.</b> Richmond, I. C.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Heckford, T.R., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Kennah, J., Wiersma, Y.F. (2020). **Temporal variation and its drivers in the elemental traits of four boreal plant species.** Journal of Plant Ecology, 14, 398--413"
+title: "<b>4\\.</b> Richmond, I. C.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Heckford, T.R., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Kennah, J., Wiersma, Y.F. (2020). **Temporal variation and its drivers in the elemental traits of four boreal plant species.** Journal of Plant Ecology, 14, 398--413"
 collection: publications
-permalink: /publication/06_Plant_stoich_temporal_variation
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/06_Plant_stoich_temporal_variation)
+permalink: /publication/04_Plant_stoich_temporal_variation
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/04_Plant_stoich_temporal_variation)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1093/jpe/rtaa103)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5281/zenodo.4090893)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/06_Plant_stoich_temporal_variation.bib)'
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/04_Plant_stoich_temporal_variation.bib)'
 ---
 
 ### Abstract:
