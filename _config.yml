@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matteo Rizzuto"
   avatar           : "avatar.jpg"
-  bio              : "5<sup>th</sup> year Ph.D. Candidate at Memorial University of Newfoundland, studying <b>how trophic and non-trophic interactions influence meta-ecosystem dynamics</b>. Currently looking for a PostDoc position."
-  location         : "Department of Biology, <br>Memorial University of Newfoundland, <br>St. John's, Canada"
+  bio              : "Ph.D. at Memorial University of Newfoundland and Labrador, studying <b>how trophic and non-trophic interactions influence meta-ecosystem dynamics</b>. Currently looking for a PostDoc position."
+  location         : "Department of Biology, <br>Memorial University of Newfoundland and Labrador, <br>St. John's, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=V6rOyqgAAAAJ&hl"
   researchgate     : "https://www.researchgate.net/profile/Matteo_Rizzuto"
-  email            : "mrizzuto [at] mun [dot] ca"
+  email            : "matteomrizzuto [at] gmail [dot] com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,13 +99,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/matteorizzuto/"
   orcid            : "https://orcid.org/0000-0003-3065-9140"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "MatteoRiz"
