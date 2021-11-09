@@ -1,9 +1,10 @@
 ---
-title: "<b>11\\.</b> Balluffi-Fry, J.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Wiersma, Y.F., Richmond, I.C., Heckford, T.H., <u>Rizzuto, M.</u>, Kennah, J.L., Vander Wal, E. [*Accepted*]. **Integrating plant stoichiometry and feeding experiments: state-dependent forage choice and its implications on body mass.** Oecologia."
+title: "<b>11\\.</b> Balluffi-Fry, J.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Wiersma, Y.F., Richmond, I.C., Heckford, T.H., <u>Rizzuto, M.</u>, Kennah, J.L., Vander Wal, E. (2021) **Integrating plant stoichiometry and feeding experiments: state-dependent forage choice and its implications on body mass.** Oecologia."
 collection: publications
 permalink: /publication/11_Stoich_forage_choices
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/11_Stoich_forage_choices)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://rdcu.be/cAY5a)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://github.com/jballuffi/stoichiometry_cafexperiments)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/11_Stoich_forage_choices.bib)'
 ---
 

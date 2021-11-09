@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/09_Spatial_plant_chemical_traits
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/09_Spatial_plant_chemical_traits)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1007/s10980-021-01334-3)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.11911455)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/09_Spatial_plant_chemical_traits.bib)'
 ---
 
