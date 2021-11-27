@@ -5,8 +5,7 @@ permalink: /publication/01_Foraging_constraints_carnivores
 excerpt: '
 [<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/01_Foraging_constraints_carnivores)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](http://rdcu.be/Ajqp)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Source code</span>](https://doi.org/10.6084/m9.figshare.5466295)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.5464150)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Data</span>](https://doi.org/10.6084/m9.figshare.5464150) and [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://doi.org/10.6084/m9.figshare.5466295)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/01_Foraging_constraints_carnivores.bib)
 '
 ---
