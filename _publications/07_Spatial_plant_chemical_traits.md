@@ -1,11 +1,11 @@
 ---
-title: "Heckford, T.R.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Richmond, I.C., Wiersma, Y.F. (2021). **Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality.** Landscape Ecology."
+title: "<b>7\\.</b> Heckford, T.R.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Richmond, I.C., Wiersma, Y.F. (2021). **Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality.** Landscape Ecology."
 collection: publications
-permalink: /publication/09_Spatial_plant_chemical_traits
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/09_Spatial_plant_chemical_traits)
+permalink: /publication/07_Spatial_plant_chemical_traits
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/07_Spatial_plant_chemical_traits)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1007/s10980-021-01334-3)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.11911455)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/09_Spatial_plant_chemical_traits.bib)'
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/07_Spatial_plant_chemical_traits.bib)'
 ---
 
 ### Abstract:

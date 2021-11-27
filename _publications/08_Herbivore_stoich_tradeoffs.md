@@ -1,11 +1,11 @@
 ---
-title: "<b>10\\.</b> Richmond, I.C.<sup><a title='Corresponding author'>✉</a></sup>, Balluffi­-Fry, J., Vander Wal, E., Leroux, S.J., <u>Rizzuto, M.</u>, Heckford, T.R., Kennah, J.L., Riefesel, G.R., Wiersma, Y.F. (2021) **Individual snow­shoe hares manage risk differently: Integrating stoichiometric distribution models and foraging ecology.** Journal of Mammalogy."
+title: "<b>8\\.</b> Richmond, I.C.<sup><a title='Corresponding author'>✉</a></sup>, Balluffi­-Fry, J., Vander Wal, E., Leroux, S.J., <u>Rizzuto, M.</u>, Heckford, T.R., Kennah, J.L., Riefesel, G.R., Wiersma, Y.F. (2021) **Individual snow­shoe hares manage risk differently: Integrating stoichiometric distribution models and foraging ecology.** Journal of Mammalogy."
 collection: publications
-permalink: /publication/10_Herbivore_stoich_tradeoffs
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/10_Herbivore_stoich_tradeoffs)
+permalink: /publication/08_Herbivore_stoich_tradeoffs
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/08_Herbivore_stoich_tradeoffs)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab130/6441781?guestAccessKey=8f89e422-7fb9-4ce9-a9dc-ccf46f3dd0cc)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5281/zenodo.4161587)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/10 10_Herbivore_stoich_tradeoffs.bib)'
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/10 08_Herbivore_stoich_tradeoffs.bib)'
 ---
 
 ### Abstract:
