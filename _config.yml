@@ -192,6 +192,9 @@ collections:
   pastresearch:
     output: true
     permalink: /:collection/:path/
+  inprogress:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -264,6 +267,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _inprogress
+  - scope:
+      path: ""
+      type: inprogress
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
@@ -275,7 +287,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/St_Johns # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
