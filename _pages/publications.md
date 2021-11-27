@@ -9,6 +9,8 @@ author_profile: true
 
 {% include base_path %}
 
+_In progress_
+
   {% for post in site.inprogress reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}
@@ -16,6 +18,8 @@ author_profile: true
 <br>
 
 {% include base_path %}
+
+_Peer reviewed_
 
 {% for post in site.publications reversed %}
   {% include archive-single-pub.html %}
