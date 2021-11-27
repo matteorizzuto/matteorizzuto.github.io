@@ -1,7 +1,7 @@
 ---
 title: "Little, C.J.<sup><a title='Corresponding author'>✉</a></sup>, <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Luhring, T.M., Monk, J.D., Nowicki, R.J., Paseka, R.E., Stegen, J.C., Symons, C.C., Taub, F.B., Yan, J.D.L. [*in review*] **Filling the Information Gap in Meta-ecosystem Ecology.** EcoEvoRxiv. <img src='../images/preprint.png'>"
-collection: publications
-permalink: /publication/p2_Information_metaecosystems
+collection: inprogress
+permalink: /inprogress/p2_Information_metaecosystems
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/p2_Information_metaecosystems)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.32942/osf.io/hc83u)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/p2_Information_metaecosystems.bib)'
