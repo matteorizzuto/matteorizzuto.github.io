@@ -16,4 +16,4 @@ Intraspecific variation in plant traits has important consequences for individua
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1093/jpe/rtaa103)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.5281/zenodo.4090893)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/06_Plant_stoich_temporal_variation.bib)
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/04_Plant_stoich_temporal_variation.bib)

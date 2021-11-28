@@ -20,4 +20,4 @@ excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1002/ece3.5880)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.7884854)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/2_Intraspecific_Stoichiometry.bib)
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/02_Intraspecific_Stoichiometry.bib)

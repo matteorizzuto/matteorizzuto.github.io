@@ -14,4 +14,4 @@ Fluxes of matter, energy, and information over space and time contribute to ecos
 </p>
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.32942/osf.io/hc83u)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/8_Information_metaecosystems.bib)
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/p2_Information_metaecosystems.bib)
