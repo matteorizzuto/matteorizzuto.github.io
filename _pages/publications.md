@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>In progress</h3>
+<h2><i>In progress</i></h2>
 
   {% for post in site.inprogress reversed %}
     {% include archive-single-pub.html %}
@@ -19,7 +19,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>Peer reviewed</h3>
+<h2><i>Peer reviewed</i></h2>
 
 {% for post in site.publications reversed %}
   {% include archive-single-pub.html %}
