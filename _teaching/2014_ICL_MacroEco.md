@@ -1,7 +1,7 @@
 ---
 title: "Macroecology and Climate Change"
 collection: teaching
-type: "Graduate Course "
+type: "Graduate Course"
 permalink: /teaching/2014_ICL_MacroEco
 venue: "Imperial College London - Silwood Park Campus, Department of Life Sciences"
 date: 2014-01-01

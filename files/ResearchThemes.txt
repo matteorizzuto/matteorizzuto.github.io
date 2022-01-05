@@ -1,0 +1,56 @@
+**Research Themes**
+
+I study how organisms interact with their environment to shape the world around them. Welcome to my website!
+My research focuses on how energy, matter, and information shape the relationships between living beings and their environment. I work to expand models of ecosystem functioning, using a mix of empirical and theoretical approaches. I do this by measuring exchanges of matter, energy, and information between organisms and their environment, and developing new theoretical models to predict how ecosystems change as a result. My goal is to expand our knowledge of how ecosystems work, to improve how we predict and mitigate the impact of human activities on our planet.
+
+_It needs to be updated to reflect the breadth of my research, summarized below_
+
+_Ecology of individuals_
+⦁ Organisms are the starting point of my research
+⦁ Organisms shape and are shaped by their environment, being powerful forces for change but also being extremely vulnerable to change itself
+⦁ The interactions between organisms and their environment shapes everything, from what organisms are built of, to how they behave, to how we as researchers described them
+⦁ I am interested in how they behave (NEE 2018 paper), interact with each and the environment (Oecologia 2021 paper), and how we–as researchers–describe them and study them (EE 2019 paper, J Anim E 2021 paper) 
+
+Organisms—plants and animals—are the starting point of my research. Through their activities, organisms shape the environment in many different ways. For instance, foraging, interacting with other organisms, or spending time in a given place. At the same time, organisms respond to the characteristics of their environment, changing how they behave. These organism-environment interactions are the backbone upon which most of what we know about the ecology of ecosystems is built. Consequently, investigating and describing them are fundamental steps towards developing a holistic, general understanding of the way ecosystems—and our plant—work.
+
+My interest in organisms’ behaviour led me to investigate what constrains it—from animal biochemistry (Rizzuto et al. 2019) to the laws of physics (Rizzuto et al. 2018). From there, I move to study how the characteristics of the environment—for instance, food biochemistry—influence how organisms use their space (Rizzuto et al. 2021). Finally, I have dabbled in how we as researchers and scientists describe and study the interactions among organisms and environment (Rizzuto et al. 2019, Ellis-Soto, Ferraro et al. 2021, Heckford et al. 2021). 
+
+Relevant papers:
+⦁ Rizzuto M, Carbone C, Pawar S (2018) Foraging constraints reverse the scaling of activity time in carnivores. Nature Ecology & Evolution 2:247–253. https://doi.org/10.1038/s41559-017-0386-1
+⦁ Rizzuto M, Leroux SJ, Vander Wal E, et al (2019) Patterns and potential drivers of intraspecific variability in the body C, N, and P composition of a terrestrial consumer, the snowshoe hare (_Lepus americanus_). Ecology and Evolution 9:14453–14464. https://doi.org/10.1002/ece3.5880
+⦁ Ellis‐Soto D, Ferraro KM, Rizzuto M, et al (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. https://doi.org/10.1111/1365-2656.13538
+⦁ Rizzuto M, Leroux SJ, Vander Wal E, et al (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. https://doi.org/10.1007/s00442-021-04965-0
+⦁ Heckford TR, Leroux SJ, Vander Wal E, et al (2021) Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality. Landscape Ecology 3. https://doi.org/10.1007/s10980-021-01334-3
+
+_Ecology of Ecosystems_
+⦁ Ecosystems are one of the basic units of ecology: the are the combination of living beings and non-living environment found at a given time and place. 
+⦁ A forest in a region, a single tree in that forest, a leaf on that tree, are all examples of ecosystems
+⦁ while different in size, they all share common characteristics: trophic interactions and exchanges of material with their surroundings
+⦁ I am interested in how components of ecosystems—organisms and their environment—shape their ecosystems and those adjacent and connected to it
+⦁ Oecologia 2021 paper, Landscape Ecology 2021 paper, J Plant E 2020 paper 
+
+Ecosystems are one of the basic units of ecology: combinations of organisms and inorganic environmental features that interact with each other and are found in a given time and place. A forest on the side of a mountain, a tree in that forest, or a leaf on that tree are all examples of ecosystems. Besides obvious differences in size, they all share key traits. Each of them comprises _trophic interactions_ and _exchanges of materials_ with their surroundings. In a _trophic interaction_ a consumer—e.g., a plant, an animal, a bacteria—uses a resource, for instance, nutrients in the soil or another organism, to produce more of itself. _Exchanges of materials_ with the ecosystem’s surroundings comprise mobilization and transport of matter, energy, and information in time and space. Trophic interactions within ecosystems and cross-ecosystem exchanges weave a network that spans the globe and supports life everywhere. 
+
+My work focuses on investigating and understanding how cross-ecosystem exchanges modify the dynamics of ecosystems over time (Rizzuto et al. _in prep._, Ellis-Soto, Ferraro et al. 2021). I am also interested in how ecosystem characteristics change how organisms use their environment (Rizzuto et al. 2021, Richmond et al. 2021), and how environmental characteristics shape a species activities and trade-offs (Balluffi-Fry et al. 2020, 2021). 
+
+Relevant papers:
+⦁ Ellis‐Soto D, Ferraro KM, Rizzuto M, et al (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. https://doi.org/10.1111/1365-2656.13538
+⦁ Rizzuto M, Leroux SJ, Vander Wal E, et al (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. https://doi.org/10.1007/s00442-021-04965-0
+⦁ Richmond IC, Balluffi-Fry J, Vander Wal E, et al (2021) Individual snowshoe hares manage risk differently: integrating stoichiometric distribution models and foraging ecology. Journal of Mammalogy https://doi.org/10.1093/jmammal/gyab130
+⦁ Balluffi-Fry J, Leroux SJ, Wiersma YF, et al (2021) Integrating plant stoichiometry and feeding experiments: state-dependent forage choice and its implications on body mass. Oecologia. https://doi.org/10.1007/s00442-021-05069-5
+⦁ Balluffi‐Fry J, Leroux SJ, Wiersma YF, et al (2020) Quantity–quality trade‐offs revealed using a multiscale test of herbivore resource selection on elemental landscapes. Ecology and Evolution 10:13847–13859. https://doi.org/10.1002/ece3.6975
+
+_Ecological Theory_
+⦁ Empirical research is how my passion for ecology started but over the years I developed a taste for theory
+⦁ theory is useful because it lets you run entire experiments on a piece of paper (or the screen of your computer)
+⦁ these abstract experiments are useful to learn about a system, develop ideas, and shape questions and expected answers to then go test in the field with boots on the ground
+⦁ I work to expand current theoretical tools in ecology, particularly mathematical models of how ecosystems work
+⦁ Animal movement paper, Information paper, J Anim E 2021 paper, Meta-contaminants paper
+
+Empirical, boots-on-the-ground research, like the studies described above, is where my passion for ecology was born. However, between one fieldwork bout and the next, I developed an interest in ecological theory and its multiple facets. Theoretical work in ecology is helpful as working on a piece of paper or a computer’s screen provides something that is very had to come by in the field: repeatability and control. I find toy experiments and simple mathematical models extremely useful to learn about a new system, develop research ideas, and shape research questions and hypotheses. One can then take these and go test them in the lab or in the field, come back to the theory to adjust what did not work, and repeat the process all over again. Working both sides of the theoretical-empirical spectrum can be very challenging, but also very rewarding.
+
+My forays into theoretical ecology are just beginning. Early on, I became interested in how animal activities—particularly, movement—are featured in mathematical models of ecosystem functioning (Rizzuto et al. _in prep._, Ellis-Soto, Ferraro, et al. 2021). As well, I am collaborating with several stellar researchers to develop new perspectives on how contaminants affect ecosystems, by combining ecosystem and contaminants mathematical models (McLeod et al. in review). Finally, I am working to include information as an additional currency in ecological models, to tackle some of the more elusive questions in ecology (Little, Rizzuto, et al. _in revision_).
+
+Relevant papers:
+⦁ Ellis‐Soto D, Ferraro KM, Rizzuto M, et al (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. https://doi.org/10.1111/1365-2656.13538
+⦁ Little CJ, Rizzuto M, Luhring TM, et al (2020) Filling the Information Gap in Meta-Ecosystem Ecology. EcoEvoRxiv preprint. https://doi.org/10.32942/osf.io/hc83u
