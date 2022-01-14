@@ -30,6 +30,7 @@ body {font-family: Arial;}
   padding: 14px 16px;
   transition: 0.3s;
   font-size: 17px;
+  color: #006699;
 }
 
 /* Change background color of buttons on hover */
@@ -39,7 +40,7 @@ body {font-family: Arial;}
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: #c9d5ea;
 }
 
 /* Style the tab content */
