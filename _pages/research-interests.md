@@ -40,7 +40,7 @@ body {font-family: Arial;}
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccdccc;
+  background-color: none;
   border-bottom: 2px solid #005100;
 }
 
