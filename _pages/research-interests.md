@@ -41,6 +41,7 @@ body {font-family: Arial;}
 /* Create an active/current tablink class */
 .tab button.active {
   background-color: #EEF2F8;
+  border-bottom: 2px solid #006699;
 }
 
 /* Style the tab content */
