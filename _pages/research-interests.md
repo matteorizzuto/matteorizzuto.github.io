@@ -17,7 +17,7 @@ Organisms&mdash;plants, animals, and microbes&mdash;are the starting point of my
 My interest in organism behaviour has led me to investigate what constrains it&mdash;from animal biochemistry to the laws of physics. I also study how environmental characteristics&mdash;for instance, food biochemistry&mdash;influence how organisms use their space and explore how we as researchers and scientists describe and study the interactions among organisms and their environment.
 </p>
 
-<h4>Relevant papers</h4>
+<h3>Relevant papers</h3>
 <ul>
   <li>Rizzuto M, Leroux SJ, Vander Wal E, et al. (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. DOI: <a href="https://doi.org/10.1007/s00442-021-04965-0">10.1007/s00442-021-04965-0</a></li>
   <li>Heckford TR, Leroux SJ, Vander Wal E, et al. (2021) Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality. Landscape Ecology. DOI: <a href="https://doi.org/10.1007/s10980-021-01334-3">10.1007/s10980-021-01334-3</a></li>
