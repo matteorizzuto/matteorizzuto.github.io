@@ -52,13 +52,13 @@ body {font-family: Arial;}
 </style>
 </head>
 
-<body>
+<body onload="document.getElementById("defaultOpen").click();">
 
 <!-- <h2>Tabs</h2>
 <p>Click on the buttons inside the tabbed menu:</p> -->
 
 <div class="tab">
-  <button class="tablinks" onclick="openTheme(event, 'Individuals')" id="defaultOpen">Ecology of Individuals</button>
+  <button class="tablinks active" onclick="openTheme(event, 'Individuals')" id="defaultOpen">Ecology of Individuals</button>
   <button class="tablinks" onclick="openTheme(event, 'Ecosystems')">Ecology of Ecosystems</button>
   <button class="tablinks" onclick="openTheme(event, 'Theory')">Theoretical Ecology</button>
 </div>
@@ -131,13 +131,9 @@ function openTheme(evt, themeName) {
   document.getElementById(themeName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-</script>
 
-<script>
-// Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-
 </body>
 
 <!-- <h2><b>Ecology of Individuals</b></h2>
