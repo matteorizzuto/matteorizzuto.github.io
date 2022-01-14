@@ -8,7 +8,7 @@ redirect_from:
 
 My research mostly takes place at the interface between Wildlife, Landscape, and Ecosystem Ecology. Currently, I am working on three main themes.
 
-<h2>Ecology of Individuals</h2>
+<h2><b>Ecology of Individuals</b></h2>
 <p>
 Organisms&mdash;plants, animals, and microbes&mdash;are the starting point of my research. Through foraging, interacting with other organisms, or spending time in a given place, organisms shape the environment. At the same time, the characteristics of their environment cause organisms to change how they act. Organism-environment interactions are the backbone upon which most of what we know about the ecology of ecosystems is built. Consequently, investigating and describing these interactions are fundamental steps towards developing a holistic, general understanding of the way ecosystems&mdash;and our planet&mdash;work.
 </p>
@@ -17,7 +17,7 @@ Organisms&mdash;plants, animals, and microbes&mdash;are the starting point of my
 My interest in organism behaviour has led me to investigate what constrains it&mdash;from animal biochemistry to the laws of physics. I also study how environmental characteristics&mdash;for instance, food biochemistry&mdash;influence how organisms use their space and explore how we as researchers and scientists describe and study the interactions among organisms and their environment.
 </p>
 
-<h5>Relevant papers</h5>
+<h4>Relevant papers</h4>
 <ul>
   <li>Rizzuto M, Leroux SJ, Vander Wal E, et al. (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. DOI: <a href="https://doi.org/10.1007/s00442-021-04965-0">10.1007/s00442-021-04965-0</a></li>
   <li>Heckford TR, Leroux SJ, Vander Wal E, et al. (2021) Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality. Landscape Ecology. DOI: <a href="https://doi.org/10.1007/s10980-021-01334-3">10.1007/s10980-021-01334-3</a></li>
