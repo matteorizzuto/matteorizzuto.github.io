@@ -48,7 +48,7 @@ body {font-family: Arial;}
 /* Style the tab content */
 .tabcontent {
   display: none;
-  padding: 6px 12px;
+  padding: 12px 12px;
   border: none;
   border-top: none;
 }
