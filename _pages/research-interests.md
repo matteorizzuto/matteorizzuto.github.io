@@ -131,7 +131,10 @@ function openTheme(evt, themeName) {
   document.getElementById(themeName).style.display = "block";
   evt.currentTarget.className += " active";
 }
+</script>
 
+<script>
+// Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
 
