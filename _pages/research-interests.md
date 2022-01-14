@@ -52,7 +52,7 @@ body {font-family: Arial;}
 </style>
 </head>
 
-<body onload="document.getElementById("defaultOpen").click();">
+<body>
 
 <!-- <h2>Tabs</h2>
 <p>Click on the buttons inside the tabbed menu:</p> -->
