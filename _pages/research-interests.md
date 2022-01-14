@@ -66,11 +66,11 @@ body {font-family: Arial;}
 </div>
 
 <div id="Individuals" class="tabcontent">
-<p>
-Organisms&mdash;plants, animals, and microbes&mdash;are the starting point of my research. Through foraging, interacting with other organisms, or spending time in a given place, organisms shape the environment. Likewise, the characteristics of their environment cause organisms to change how they act. Organism-environment interactions are the backbone upon which most of what we know about the ecology of ecosystems is built. Consequently, investigating and describing these interactions are fundamental steps towards developing a holistic, general understanding of the way ecosystems&mdash;and our planet&mdash;work.
-</p>
 
-<p>
+<p><img src="Hare_EcoIndividual.jpg" style="float:right">
+Organisms&mdash;plants, animals, and microbes&mdash;are the starting point of my research. Through foraging, interacting with other organisms, or spending time in a given place, organisms shape the environment. Likewise, the characteristics of their environment cause organisms to change how they act. Organism-environment interactions are the backbone upon which most of what we know about the ecology of ecosystems is built. Consequently, investigating and describing these interactions are fundamental steps towards developing a holistic, general understanding of the way ecosystems&mdash;and our planet&mdash;work.
+<br>
+<br>
 My interest in organism behaviour has led me to investigate what constrains it&mdash;from biochemistry to the laws of physics. I am also interested in how we as researchers and scientists describe and study the interactions among organisms and their environment.
 </p>
 
