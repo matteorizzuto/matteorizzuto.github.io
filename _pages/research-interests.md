@@ -111,9 +111,9 @@ body {font-family: Arial;}
 <p>Click on the buttons inside the tabbed menu:</p>
 
 <div class="tab">
-  <button class="tablinks" onclick="openTheme(event, 'Individuals')">London</button>
-  <button class="tablinks" onclick="openTheme(event, 'Ecosystems')">Paris</button>
-  <button class="tablinks" onclick="openTheme(event, 'Theory')">Tokyo</button>
+  <button class="tablinks" onclick="openTheme(event, 'Individuals')">Ecology of Individuals</button>
+  <button class="tablinks" onclick="openTheme(event, 'Ecosystems')">Ecology of Ecosystems</button>
+  <button class="tablinks" onclick="openTheme(event, 'Theory')">Theoretical Ecology</button>
 </div>
 
 <div id="Individuals" class="tabcontent">
@@ -186,7 +186,7 @@ function openTheme(evt, themeName) {
   for (i = 0; i < tablinks.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(" active", "");
   }
-  document.getElementById(cityName).style.display = "block";
+  document.getElementById(themeName).style.display = "block";
   evt.currentTarget.className += " active";
 }
 </script>
