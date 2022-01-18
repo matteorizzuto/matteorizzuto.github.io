@@ -1,5 +1,5 @@
 ---
-title: "Little, C.J.<sup><a title='Corresponding author'>✉</a></sup>, <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Luhring, T.M., Monk, J.D., Nowicki, R.J., Paseka, R.E., Stegen, J.C., Symons, C.C., Taub, F.B., Yan, J.D.L. [*Accepted*] **Movement with Meaning: Integrating Information into Meta-Ecology** Oikos. <img src='../images/preprint.png'>"
+title: "Little, C.J.<sup><a title='Corresponding author'>✉</a></sup>, <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Luhring, T.M., Monk, J.D., Nowicki, R.J., Paseka, R.E., Stegen, J.C., Symons, C.C., Taub, F.B., Yan, J.D.L. [*Accepted*] **Movement with Meaning: Integrating Information into Meta-Ecology.** Oikos. <img src='../images/preprint.png'>"
 collection: inprogress
 permalink: /inprogress/p2_Information_metaecosystems
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../inprogress/p2_Information_metaecosystems)
