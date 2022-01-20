@@ -88,13 +88,14 @@ My interest in organism behaviour has led me to investigate what constrains it&m
 <p>
 Ecosystems are one of the basic units of ecology: combinations of organisms and inorganic environmental features that interact at multiple spatial and temporal scales. A forest on the side of a mountain, a tree in that forest, or a leaf on that tree are all examples of ecosystems. Despite their obvious differences in size, each comprises <i>trophic interactions</i> and <i>exchanges of materials</i> with their surroundings. In a <i>trophic interaction</i> a consumer&mdash;e.g., a plant, an animal, a bacteria&mdash;consumes a resource, for instance, nutrients in the soil or another organism, to obtain energy, grow, and eventually reproduce. <i>Exchanges of materials</i> with the ecosystem’s surroundings comprise mobilising and transporting matter, energy, and information in time and space. Trophic interactions within ecosystems and cross-ecosystem exchanges weave a network that spans the globe, supporting life everywhere.
 </p>
+<p>
+My work focuses on investigating and understanding how cross-ecosystem exchanges modify the dynamics of ecosystems over time. I am also interested in how ecosystem characteristics—for instance, resource distribution in space and time—change the way organisms use their environment.
+</p>
+
 <figure>
 <img src="../images/RoadMap_Ecosystems.pdf" style="float:center">
 <figcaption>A conceptual roadmap to study animal's contributions to ecosystem nutrient cycles. From <a href="https://doi.org/10.1111/1365-2656.13538">Ellis-Soto, Ferraro, et al. (2021) J. Anim. Ecol. 90(7):1605-1622.</a>&copy; 2021 The Authors, British Ecological Society.</figcaption>
 </figure>
-<p>
-My work focuses on investigating and understanding how cross-ecosystem exchanges modify the dynamics of ecosystems over time. I am also interested in how ecosystem characteristics—for instance, resource distribution in space and time—change the way organisms use their environment.
-</p>
 
 <h3>Relevant papers</h3>
 <ul>
