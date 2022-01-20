@@ -119,7 +119,7 @@ My forays into theoretical ecology are just beginning. I am interested in how an
 
 <figure style="float:right">
 <img src="../images/Theoretical_Ecol.pdf" style="width:200px;height:400px;padding:10px">
-<figcaption>A diagram showing the effects of information on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto et al. (2020).</a></figcaption></figure>
+<figcaption>A diagram showing the effects of<br>information on ecosystem processes.<br>From<br><a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto et al. (2020).</a></figcaption></figure>
 
 <h3>Relevant papers</h3>
 <ul>
