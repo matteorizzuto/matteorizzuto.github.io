@@ -90,7 +90,7 @@ Ecosystems are one of the basic units of ecology: combinations of organisms and 
 </p>
 <figure>
 <img src="../images/RoadMap_Ecosystems.pdf" style="float:center">
-<figcaption>A conceptual roadmap to study animal's contributions to ecosystem nutrient cycles. From <a href="https://doi.org/10.1111/1365-2656.13538">Ellis-Soto, Ferraro, et al. (2021) J. Anim. Ecol.</a></figcaption>
+<figcaption>A conceptual roadmap to study animal's contributions to ecosystem nutrient cycles. From <a href="https://doi.org/10.1111/1365-2656.13538">Ellis-Soto, Ferraro, et al. (2021) J. Anim. Ecol. 90(7):1605-1622. &copy; 2021 The Authors, British Ecological Society.</a></figcaption>
 </figure>
 <p>
 My work focuses on investigating and understanding how cross-ecosystem exchanges modify the dynamics of ecosystems over time. I am also interested in how ecosystem characteristics—for instance, resource distribution in space and time—change the way organisms use their environment.
