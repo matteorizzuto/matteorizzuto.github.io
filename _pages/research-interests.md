@@ -117,10 +117,9 @@ Empirical, boots-on-the-ground research is where my passion for ecology was born
 My forays into theoretical ecology are just beginning. I am interested in how animal activities&mdash;particularly, movement&mdash;are featured in mathematical models of ecosystem functioning. I am also collaborating with several stellar researchers to develop new perspectives on how contaminants affect ecosystems by combining mathematical models of ecosystem and contaminants dynamics. Finally, I am working to include exchanges of information among organisms and between organisms and their environment (e.g., alarm calls, pheromones, light-dark cycles) as an additional currency in ecological models, to tackle some of the more elusive questions in ecology.
 </p>
 
-<figure>
-<img src="../images/Theoretical_Ecol.pdf" style="float:right;width:200px;height:400px;padding:10px">
-<figcaption>A diagram showing the effects of information on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto et al. (2020).</figcaption>
-</figure>
+<figure style="float:right">
+<img src="../images/Theoretical_Ecol.pdf" style="width:200px;height:400px;padding:10px">
+<figcaption>A diagram showing the effects of information on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto et al. (2020).</a></figcaption></figure>
 
 <h3>Relevant papers</h3>
 <ul>
