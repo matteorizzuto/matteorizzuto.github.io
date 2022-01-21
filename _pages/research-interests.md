@@ -15,12 +15,13 @@ body {font-family: Arial;}
 
 figure{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   margin: 0;
 }
 
 figcaption {
   align-self: flex-end;
+  text-align: right;
   color: #000;
   padding-right: 35px;
 }
