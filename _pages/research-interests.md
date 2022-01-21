@@ -118,16 +118,15 @@ Empirical, boots-on-the-ground research is where my passion for ecology was born
 My forays into theoretical ecology are just beginning. I am interested in how animal activities&mdash;particularly, movement&mdash;are featured in mathematical models of ecosystem functioning. I am also collaborating with several stellar researchers to develop new perspectives on how contaminants affect ecosystems by combining mathematical models of ecosystem and contaminants dynamics. Finally, I am working to include exchanges of information among organisms and between organisms and their environment (e.g., alarm calls, pheromones, light-dark cycles) as an additional currency in ecological models, to tackle some of the more elusive questions in ecology.
 </p>
 
-
-<figure style="float:right">
-<img src="../images/Theoretical_Ecol.pdf" style="width:300px;height:500px;padding:5px">
-<figcaption>A diagram showing the effects of information<br>on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto, et al. (2020).</a></figcaption></figure>
-
 <h3>Relevant papers</h3>
 <ul>
   <li>Ellis‐Soto D, Ferraro KM, Rizzuto M, et al. (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. DOI: <a href="https://doi.org/10.1111/1365-2656.13538">10.1111/1365-2656.13538</a></li>
   <li>Little CJ, Rizzuto M, Luhring TM, et al. [*accepted*] Movement with Meaning: Integrating Information into Meta-Ecology. Oikos. DOI: <a href="https://doi.org/10.32942/osf.io/hc83u">10.32942/osf.io/hc83u</a></li>
 </ul>
+
+<figure style="float:right">
+<img src="../images/Theoretical_Ecol.pdf" style="width:300px;height:500px;padding:5px">
+<figcaption>A diagram showing the effects of information<br>on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto, et al. (2020).</a></figcaption></figure>
 </div>
 
 <script>
