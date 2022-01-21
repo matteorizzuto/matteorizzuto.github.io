@@ -14,11 +14,10 @@ My research mostly takes place at the interface between Wildlife, Landscape, and
 body {font-family: Arial;}
 
 figcaption {
-  position: absolute;
-  bottom: 1em;
-  left: 0;
-  background-color: black;
-  width: 100%;
+  align-self: flex-end;
+  text-align: right;
+  color: #000;
+  padding-right: 35px;
 }
 
 /* Style the tab */
