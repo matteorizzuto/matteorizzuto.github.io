@@ -13,6 +13,14 @@ My research mostly takes place at the interface between Wildlife, Landscape, and
 <style>
 body {font-family: Arial;}
 
+figcaption {
+  position: absolute;
+  bottom: 1em;
+  left: 0;
+  background-color: black;
+  width: 100%;
+}
+
 /* Style the tab */
 .tab {
   overflow: hidden;
