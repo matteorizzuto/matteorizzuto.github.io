@@ -122,7 +122,7 @@ My forays into theoretical ecology are just beginning. I am interested in how an
 <img src="../images/Theoretical_Ecol.pdf" style="width:300px;height:500px;padding:5px">
 <figcaption>A diagram showing the effects of information on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto, et al. (2020).</a></figcaption></figure>
 
-<h3 style="float:left">Relevant papers</h3>
+<h3>Relevant papers</h3>
 <ul>
   <li>Ellis‐Soto D, Ferraro KM, Rizzuto M, et al. (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. DOI: <a href="https://doi.org/10.1111/1365-2656.13538">10.1111/1365-2656.13538</a></li>
   <li>Little CJ, Rizzuto M, Luhring TM, et al. Movement with Meaning: Integrating Information into Meta-Ecology. Accepted, Oikos. DOI: <a href="https://doi.org/10.32942/osf.io/hc83u">10.32942/osf.io/hc83u</a></li>
