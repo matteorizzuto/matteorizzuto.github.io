@@ -52,6 +52,14 @@ body {font-family: Arial;}
   border: none;
   border-top: none;
 }
+
+/* Style the fig caption */
+.figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
 </style>
 </head>
 
