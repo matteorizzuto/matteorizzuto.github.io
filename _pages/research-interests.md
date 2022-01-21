@@ -53,13 +53,6 @@ body {font-family: Arial;}
   border-top: none;
 }
 
-/* Style the fig caption */
-.figcaption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
 </style>
 </head>
 
@@ -118,9 +111,9 @@ My work focuses on investigating and understanding how cross-ecosystem exchanges
 
 <div id="Theory" class="tabcontent">
 
-<figure style="float:right">
-<img src="../images/Theoretical_Ecol.pdf" style="width:300px;height:500px;padding:10px">
-<figcaption>A diagram showing the effects of<br>information on ecosystem processes.<br>From<br><a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto et al. (2020).</a></figcaption></figure>
+<figure>
+<img src="../images/Theoretical_Ecol.pdf" style="float:left;width:300px;height:500px;padding:10px">
+<figcaption>A diagram showing the effects of information on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto, et al. (2020).</a></figcaption></figure>
 <p>
 Empirical, boots-on-the-ground research is where my passion for ecology was born. However, between one fieldwork bout and the next, I developed an interest in ecological theory and its multiple facets. Theoretical work in ecology is helpful as working on a piece of paper or a computer screen provides something very hard to come by in the field: repeatability and control. I find toy experiments and simple mathematical models beneficial for learning about a new system, developing research ideas, and shaping research questions and hypotheses. One can then take these and test them in the lab or the field, come back to the theory to adjust what did not work, and repeat the process all over again. Working on both sides of the theoretical-empirical spectrum can be very challenging, but also very rewarding.
 </p>
