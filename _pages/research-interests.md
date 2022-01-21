@@ -102,7 +102,7 @@ My work focuses on investigating and understanding how cross-ecosystem exchanges
 
 <figure>
 <img src="../images/RoadMap_Ecosystems.pdf" style="float:center">
-<figcaption>A conceptual roadmap to study animal's contributions to ecosystem nutrient cycles. From <a href="https://doi.org/10.1111/1365-2656.13538">Ellis-Soto, Ferraro, et al. (2021) J. Anim. Ecol. 90(7):1605-1622.</a>&copy; 2021 The Authors, British Ecological Society.</figcaption>
+<figcaption>A conceptual roadmap to study animal's contributions to ecosystem nutrient cycles. From <a href="https://doi.org/10.1111/1365-2656.13538">Ellis-Soto, Ferraro, et al. (2021) J. Anim. Ecol. 90(7):1605-1622.</a> &copy; 2021 The Authors, British Ecological Society.</figcaption>
 </figure>
 
 <h3>Relevant papers</h3>
@@ -127,7 +127,7 @@ My forays into theoretical ecology are just beginning. I am interested in how an
 
 <figure style="float:right">
 <img src="../images/Theoretical_Ecol.pdf" style="width:300px;height:500px;padding:5px">
-<figcaption>A diagram showing the effects of information on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto, et al. (2020).</a></figcaption></figure>
+<figcaption>A diagram showing the effects of information<br>on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto, et al. (2020).</a></figcaption></figure>
 
 <h3>Relevant papers</h3>
 <ul>
