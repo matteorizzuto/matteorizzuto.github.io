@@ -119,7 +119,7 @@ My forays into theoretical ecology are just beginning. I am interested in how an
 </p>
 
 
-<figure style="float:left">
+<figure style="float:right">
 <img src="../images/Theoretical_Ecol.pdf" style="width:300px;height:500px;padding:5px">
 <figcaption>A diagram showing the effects of information<br>on ecosystem processes. From <a href="https://doi.org/10.32942/osf.io/hc83u">Little, Rizzuto, et al. (2020).</a></figcaption></figure>
 
