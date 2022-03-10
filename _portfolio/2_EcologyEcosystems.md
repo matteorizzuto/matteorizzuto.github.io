@@ -1,6 +1,6 @@
 ---
 title: "Ecology of Ecosystems"
-excerpt: " <br/><img src='../images/RoadMap_Ecosystems.pdf' width = '500' height = '300'>"
+excerpt: "The zoogeochemistry of organisms and how it influences ecosystem structure and functions <br/><img src='../images/RoadMap_Ecosystems.pdf' width = '500' height = '300'>"
 collection: portfolio
 ---
 
