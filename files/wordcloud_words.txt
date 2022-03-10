@@ -103,4 +103,10 @@ snowshoe hare,
 foraging,
 ecology,
 ecological,
-stoichiometry
+stoichiometry,
+energy flux,
+life history,
+meta-community,
+organismal movement,
+social information,
+spatial processes
