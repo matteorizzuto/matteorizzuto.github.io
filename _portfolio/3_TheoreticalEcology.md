@@ -1,6 +1,6 @@
 ---
 title: "Theoretical Ecology"
-excerpt: "Developing conceptual framework to study and predict ecosystem functioning <br/><img src='../images/MetaEcoInfo_Fig1.jpg' width = '500' height = '300'>"
+excerpt: "<p><img style='float: left;border: 2px solid #555;'  width = '500' height = '300' src='../images/MetaEcoInfo_Fig1.jpg'/> Empirical, field-based research sparked my passion for ecology. However, among fieldwork bouts, I developed an interest in ecological theory and its multiple facets. Theoretical work in ecology is helpful as working on a piece of paper or a computer screen provides something very hard to come by in the field: repeatability and control. My forays into theoretical ecology are just beginning. I am interested in how mathematical models of ecosystem functioning account for animal activities. I am also working with several stellar researchers to introduce additional currencies in models of ecosystem functioning, to improve our ability to study and predict their dynamics.</p>>"
 collection: portfolio
 ---
 
