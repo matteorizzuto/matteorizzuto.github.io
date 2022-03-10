@@ -1,12 +1,14 @@
 ---
 title: "Ecology of Individuals"
-excerpt: "<p><img style='float: right;' width='400' height='250' src='../images/Hare_EcoIndividual.jpg'/> Organisms are the starting point of my research and, in particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment. </p>"
+excerpt: "<p><img style='float: right;' width='500' height='300' src='../images/Hare_EcoIndividual.jpg'/> Organisms are the starting point of my research and, in particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment. </p>"
 collection: portfolio
 ---
 
 Organisms---plants, animals, and microbes---are the starting point of my research. Through foraging, interacting with other organisms, or spending time in a given place, organisms shape the environment. Likewise, the characteristics of their environment cause organisms to change how they act. Organism-environment interactions are the backbone upon which most of what we know about the ecology of ecosystems is built. Consequently, investigating and describing these interactions are fundamental steps to understand how ecosystems---and our planet---work.
 
 ![A snowshoe hare against a grassy backdrop in Terra Nova National Park, CA](/images/Hare_EcoIndividual.jpg)
+
+<img style='float: right;' width='400' height='250' src='../images/Hare_EcoIndividual.jpg'/>
 
 My interest in organism behaviour has led me to investigate what constrains it---from biochemistry to the laws of physics. I am also interested in how we as researchers and scientists describe and study the interactions among organisms and their environment.
 
