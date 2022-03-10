@@ -1,6 +1,6 @@
 ---
 title: "Ecology of Individuals"
-excerpt: "<p><img style='float: right; width: 150; height: 90;' src='../images/Hare_EcoIndividual.jpg'/> Early in my career I was interested in animal behaviour. This interest led me to investigate what factors influence and constrain animal activities---from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment. </p>"
+excerpt: "<p><img style='float: right;' width='500' height='300' src='../images/Hare_EcoIndividual.jpg'/> Early in my career I was interested in animal behaviour. This interest led me to investigate what factors influence and constrain animal activities---from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment. </p>"
 collection: portfolio
 ---
 
