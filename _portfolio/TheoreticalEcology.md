@@ -1,6 +1,6 @@
 ---
 title: "Theoretical Ecology"
-excerpt: " <br/><img src='../images/MetaEcoInfo_Fig1.jpg' width = '500' height = '300'>
+excerpt: "Developing conceptual framework to study and predict ecosystem functioning <br/><img src='../images/MetaEcoInfo_Fig1.jpg' width = '500' height = '300'>"
 collection: portfolio
 ---
 
