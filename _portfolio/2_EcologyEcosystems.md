@@ -9,12 +9,14 @@ Ecosystems are one of the basic units of ecology: combinations of organisms and 
 My work focuses on investigating and understanding how cross-ecosystem exchanges modify the dynamics of ecosystems over time. I am also interested in how ecosystem characteristics---for instance, resource distribution in space and time---change the way organisms use their environment.
 
 ## Relevant papers
-- Rizzuto M, Leroux SJ, Vander Wal E, et al. (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. DOI: (10.1007/s00442-021-04965-0)[https://doi.org/10.1007/s00442-021-04965-0]
+- Rizzuto M, Leroux SJ, Vander Wal E, et al. (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. DOI: [10.1007/s00442-021-04965-0](https://doi.org/10.1007/s00442-021-04965-0)
 
-- Heckford TR, Leroux SJ, Vander Wal E, et al. (2021) Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality. Landscape Ecology. DOI: (10.1007/s10980-021-01334-3)[https://doi.org/10.1007/s10980-021-01334-3]
+- Heckford TR, Leroux SJ, Vander Wal E, et al. (2021) Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality. Landscape Ecology. DOI: [10.1007/s10980-021-01334-3](https://doi.org/10.1007/s10980-021-01334-3)
 
-- Ellis‐Soto D, Ferraro KM, Rizzuto M, et al. (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. DOI: (10.1111/1365-2656.13538)[https://doi.org/10.1111/1365-2656.13538]
+- Ellis‐Soto D, Ferraro KM, Rizzuto M, et al. (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. DOI: [10.1111/1365-2656.13538](https://doi.org/10.1111/1365-2656.13538)
 
-- Richmond IC, Balluffi-Fry J, Vander Wal E, et al. (2021) Individual snowshoe hares manage risk differently: integrating stoichiometric distribution models and foraging ecology. Journal of Mammalogy, gyab130. DOI: (10.1093/jmammal/gyab130)[https://doi.org/10.1093/jmammal/gyab130]
-- Balluffi-Fry J, Leroux SJ, Wiersma YF, et al. (2021) Integrating plant stoichiometry and feeding experiments: state-dependent forage choice and its implications on body mass. Oecologia. DOI: (10.1007/s00442-021-05069-5)[https://doi.org/10.1007/s00442-021-05069-5]
-- Balluffi‐Fry J, Leroux SJ, Wiersma YF, et al. (2020) Quantity–quality trade‐offs revealed using a multiscale test of herbivore resource selection on elemental landscapes. Ecology and Evolution 10:13847–13859. DOI: (10.1002/ece3.6975)[https://doi.org/10.1002/ece3.6975]
+- Richmond IC, Balluffi-Fry J, Vander Wal E, et al. (2021) Individual snowshoe hares manage risk differently: integrating stoichiometric distribution models and foraging ecology. Journal of Mammalogy, gyab130. DOI: [10.1093/jmammal/gyab130](https://doi.org/10.1093/jmammal/gyab130)
+
+- Balluffi-Fry J, Leroux SJ, Wiersma YF, et al. (2021) Integrating plant stoichiometry and feeding experiments: state-dependent forage choice and its implications on body mass. Oecologia. DOI: [10.1007/s00442-021-05069-5](https://doi.org/10.1007/s00442-021-05069-5)
+
+- Balluffi‐Fry J, Leroux SJ, Wiersma YF, et al. (2020) Quantity–quality trade‐offs revealed using a multiscale test of herbivore resource selection on elemental landscapes. Ecology and Evolution 10:13847–13859. DOI: [10.1002/ece3.6975](https://doi.org/10.1002/ece3.6975)
