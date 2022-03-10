@@ -1,6 +1,6 @@
 ---
 title: "Ecology of Individuals"
-excerpt: "<p><img style='float: left;border: 2px solid #555' width='400' height='250' hspace='2' vspace='2' src='../images/Hare_EcoIndividual.jpg'/> Organisms are the starting point of my research and, in particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment. </p>"
+excerpt: "<p><img style='float: left;border: 2px solid #555' width='350' height='210' hspace='2' vspace='2' src='../images/Hare_EcoIndividual.jpg'/> Organisms are the starting point of my research and, in particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment. </p>"
 collection: portfolio
 ---
 
