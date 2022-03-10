@@ -1,5 +1,5 @@
 ---
-title: "Theoretical Ecology"
+title: "<h2>Theoretical Ecology</h2>"
 excerpt: "<p><img style='float: left;padding: 5px 5px 5px 5px'  width = '450' height = '270' src='../images/MetaEcoInfo_Fig1.jpg'/> Empirical, field-based research sparked my passion for ecology. However, among fieldwork bouts, I developed an interest in ecological theory and its multiple facets. Theoretical work in ecology is helpful as working on a piece of paper or a computer screen provides something very hard to come by in the field: repeatability and control. I am interested in how mathematical models of ecosystem functioning account for animal activities. I am also working with several stellar researchers to introduce additional currencies in models of ecosystem functioning, to improve our ability to study and predict their dynamics.</p>"
 collection: portfolio
 ---

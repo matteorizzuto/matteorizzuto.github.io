@@ -1,5 +1,5 @@
 ---
-title: "Ecology of Ecosystems"
+title: "<h2>Ecology of Ecosystems</h2>"
 excerpt: "<p><img style='float: right;padding: 5px 5px 5px 5px' width='450' height='270' src='../images/RoadMap_Ecosystems.pdf'/>Organisms, of course, are not isolated from their enviroment, nor are they just receivers of environmental inputs. They actively influence the environment they live in, shaping it in myriad ways. Identity, condition, activity, density, and diversity of the organisms living in an environment are but a few of the biological factors that can change the non-living world—and in turn be changed by it. This theme made up a substantial portion of my doctoral research and is still a major component of my work. In particular, I am interested in the zoogeochemistry of organisms and how it influences ecosystem structure and functions. </p>"
 collection: portfolio
 ---
