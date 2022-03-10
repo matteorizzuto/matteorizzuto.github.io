@@ -1,6 +1,6 @@
 ---
 title: "Ecology of Individuals"
-excerpt: "How do organisms fit into the biogeophysics of their environment? <br/><img src='../images/Hare_EcoIndividual.jpg' width='500' height = '300'>"
+excerpt: "How do organisms fit into the biogeophysics of their environment? <br/><img src='../images/Hare_EcoIndividual.jpg' width='500' height = '300' style='float: right;'>"
 collection: portfolio
 ---
 
