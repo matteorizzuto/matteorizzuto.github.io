@@ -22,6 +22,6 @@ My interest in organism behaviour has led me to investigate what constrains it--
 ![A snowshoe hare against a grassy backdrop in Terra Nova National Park, CA](/images/Hare_EcoIndividual.jpg)
 
 <figure>
-<img src='../images/Hare_EcoIndividual.jpg'/>
+<img src='/images/Hare_EcoIndividual.jpg'>
 <figcaption>A snowshoe hare in Terra Nova National Partk. Photo courtesy of T. R. Heckford, CC BY-ND-NC 4.0.</figcaption>
 </figure>
