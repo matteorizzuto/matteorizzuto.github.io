@@ -10,6 +10,6 @@ My forays into theoretical ecology are just beginning. I am interested in how an
 
 ## Relevant papers
 
-- Ellis‐Soto D, Ferraro KM, Rizzuto M, et al. (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. DOI: [10.1111/1365-2656.13538](https://doi.org/10.1111/1365-2656.13538)
+- Ellis‐Soto D., Ferraro K.M., Rizzuto M., et al. (2021) A methodological roadmap to quantify animal‐vectored spatial ecosystem subsidies. Journal of Animal Ecology 90:1605–1622. DOI: [10.1111/1365-2656.13538](https://doi.org/10.1111/1365-2656.13538)
 
-- Little CJ, Rizzuto M, Luhring TM, et al. Movement with Meaning: Integrating Information into Meta-Ecology. Oikos. DOI: [10.1111/oik.08892](https://onlinelibrary.wiley.com/share/author/EIUEDRPH8WUVSINFWT7Q?target=10.1111/oik.08892)
+- Little C.J., Rizzuto M., Luhring T.M., et al. Movement with Meaning: Integrating Information into Meta-Ecology. Oikos. DOI: [10.1111/oik.08892](https://onlinelibrary.wiley.com/share/author/EIUEDRPH8WUVSINFWT7Q?target=10.1111/oik.08892)
