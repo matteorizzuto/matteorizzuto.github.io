@@ -1,8 +1,7 @@
 ---
 title: "<h2>Ecology of Individuals</h2>"
 excerpt: "<div style = 'display:flex; align-items:center;'>
-<img style='float: left;padding: 5px 5px 5px 5px' width='350' height='210' src='../images/Hare_EcoIndividual.jpg'/>
-<div style='text-align: justify;'> <p> Organisms are the starting point of my research and, in particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment. </p>"
+<figure><img style='float: left;padding: 5px 5px 5px 5px' width='350' height='210' src='../images/Hare_EcoIndividual.jpg'/><figcaption>A snowshoe hare in Terra Nova National Partk. Photo courtesy of T. R. Heckford, CC BY-ND-NC 4.0.</figcaption></figure><div style='text-align: justify;'><p> Organisms are the starting point of my research and, in particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment.</p>"
 collection: portfolio
 ---
 
@@ -21,3 +20,8 @@ My interest in organism behaviour has led me to investigate what constrains it--
 
 
 ![A snowshoe hare against a grassy backdrop in Terra Nova National Park, CA](/images/Hare_EcoIndividual.jpg)
+
+<figure>
+<img src='../images/Hare_EcoIndividual.jpg'/>
+<figcaption>A snowshoe hare in Terra Nova National Partk. Photo courtesy of T. R. Heckford, CC BY-ND-NC 4.0.</figcaption>
+</figure>
