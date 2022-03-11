@@ -1,6 +1,6 @@
 ---
 title: "<h2>Ecology of Individuals</h2>"
-excerpt: "<p> Organisms are the starting point of my research. In particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment.</p><div style = 'display:flex; align-items:center;'><figure><img style='float: left;padding: 5px 5px 5px 5px' width='350' height='210' src='../images/Hare_EcoIndividual.jpg'/><figcaption>A snowshoe hare in Terra Nova National Partk. Photo courtesy of T. R. Heckford, CC BY-ND-NC 4.0.</figcaption></figure><div style='text-align: justify;'>"
+excerpt: "<div style = 'display:flex; align-items:center;'><figure><img style='float: left; min-width:30vw; max-width:50vw;' src='../images/Hare_EcoIndividual.jpg'/><figcaption>A snowshoe hare in Terra Nova National Partk. Photo courtesy of T. R. Heckford, CC BY-ND-NC 4.0.</figcaption></figure><p>Organisms are the starting point of my research. In particular, the constant feedback and feedforward mechanisms they are involved in with each other and their environment. I began my career as a behavioural ecologist working on animal behavior. Over the years, my interests grew, leading me to investigate what factors influence and constrain animal activities—from environmental biochemistry to the laws of physics. As well, I developed and interest in how we as researchers and scientists describe and study the interactions among organisms and their environment.</p>"
 collection: portfolio
 ---
 
@@ -16,9 +16,6 @@ My interest in organism behaviour has led me to investigate what constrains it--
 - Rizzuto M, Leroux SJ, Vander Wal E, et al. (2019) Patterns and potential drivers of intraspecific variability in the body C, N, and P composition of a terrestrial consumer, the snowshoe hare (_Lepus americanus_). Ecology and Evolution 9:14453–14464. DOI: [10.1002/ece3.5880](https://doi.org/10.1002/ece3.5880)
 
 - Rizzuto M, Carbone C, Pawar S (2018) Foraging constraints reverse the scaling of activity time in carnivores. Nature Ecology & Evolution 2:247–253. DOI: [10.1038/s41559-017-0386-1](https://doi.org/10.1038/s41559-017-0386-1)
-
-
-![A snowshoe hare against a grassy backdrop in Terra Nova National Park, CA](/images/Hare_EcoIndividual.jpg)
 
 <figure>
 <img src='/images/Hare_EcoIndividual.jpg'>
