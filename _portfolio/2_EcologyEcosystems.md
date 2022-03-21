@@ -6,6 +6,11 @@ collection: portfolio
 
 Ecosystems are one of the basic units of ecology: combinations of organisms and inorganic environmental features that interact at multiple spatial and temporal scales. A forest on the side of a mountain, a tree in that forest, or a leaf on that tree are all examples of ecosystems. Despite their obvious differences in size, each comprises _trophic interactions_ and _exchanges of materials_ with their surroundings. In a _trophic interaction_ a consumer---e.g., a plant, an animal, a bacteria---consumes a resource, for instance, nutrients in the soil or another organism, to obtain energy, grow, and eventually reproduce. _Exchanges of materials_ with the ecosystem’s surroundings comprise mobilising and transporting matter, energy, and information in time and space. Trophic interactions within ecosystems and cross-ecosystem exchanges weave a network that spans the globe, supporting life everywhere.
 
+<figure>
+<img src='/images/RoadMap_Ecosystems.pdf'>
+<figcaption>Conceptual roadmap to study consumer effects on ecosystem dynamics, integrating methods and techniques to account for both <i>trophic interactions</i> and <i>exchanges of materials</i> across ecosystem boundaries. From <a href='https://doi.org/10.1111/1365-2656.13538'>Ellis-Soto et al. (2021)</a>.</figcaption>
+</figure>
+
 My work focuses on investigating and understanding how cross-ecosystem exchanges modify the dynamics of ecosystems over time. I am also interested in how ecosystem characteristics---for instance, resource distribution in space and time---change the way organisms use their environment.
 
 ## Relevant papers
