@@ -14,7 +14,7 @@ Ecosystems are one of the basic units of ecology: combinations of organisms and 
 My work focuses on investigating and understanding how cross-ecosystem exchanges modify the dynamics of ecosystems over time. I am also interested in how ecosystem characteristics---for instance, resource distribution in space and time---change the way organisms use their environment.
 
 ## Relevant papers
-- Rizzuto M., Leroux S.J., Vander Wal E., et al. (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. DOI: [10.1007/s00442-021-04965-0](https://doi.org/10.1007/s00442-021-04965-0)
+- Rizzuto M., Leroux S.J., Vander Wal E., et al. (2021) Forage stoichiometry predicts the home range size of a small terrestrial herbivore. Oecologia 197:327–338. DOI: [10.1007/s00442-021-04965-0](/papers/Rizzuto_etal_2021.pdf)
 
 - Heckford T.R., Leroux S.J., Vander Wal E., et al. (2021) Spatially explicit correlates of plant functional traits inform landscape patterns of resource quality. Landscape Ecology. DOI: [10.1007/s10980-021-01334-3](https://doi.org/10.1007/s10980-021-01334-3)
 
