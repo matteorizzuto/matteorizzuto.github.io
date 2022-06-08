@@ -1,5 +1,5 @@
 ---
-title: "<b>9\\.</b> Balluffi-Fry, J.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Wiersma, Y.F., Richmond, I.C., Heckford, T.H., <u>Rizzuto, M.</u>, Kennah, J.L., Vander Wal, E. (2021) **Integrating plant stoichiometry and feeding experiments: state-dependent forage choice and its implications on body mass.** Oecologia."
+title: "<b>9\\.</b> Balluffi-Fry, J.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Wiersma, Y.F., Richmond, I.C., Heckford, T.H., <u>Rizzuto, M.</u>, Kennah, J.L., Vander Wal, E. (2021) **Integrating plant stoichiometry and feeding experiments: state-dependent forage choice and its implications on body mass.** Oecologia, 198(3), 579--591"
 collection: publications
 permalink: /publication/09_Stoich_forage_choices
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/09_Stoich_forage_choices)

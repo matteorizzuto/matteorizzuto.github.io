@@ -1,5 +1,5 @@
 ---
-title: "<b>8\\.</b> Richmond, I.C.<sup><a title='Corresponding author'>✉</a></sup>, Balluffi­-Fry, J., Vander Wal, E., Leroux, S.J., <u>Rizzuto, M.</u>, Heckford, T.R., Kennah, J.L., Riefesel, G.R., Wiersma, Y.F. (2021) **Individual snow­shoe hares manage risk differently: Integrating stoichiometric distribution models and foraging ecology.** Journal of Mammalogy, gyab130."
+title: "<b>8\\.</b> Richmond, I.C.<sup><a title='Corresponding author'>✉</a></sup>, Balluffi­-Fry, J., Vander Wal, E., Leroux, S.J., <u>Rizzuto, M.</u>, Heckford, T.R., Kennah, J.L., Riefesel, G.R., Wiersma, Y.F. (2021) **Individual snow­shoe hares manage risk differently: Integrating stoichiometric distribution models and foraging ecology.** Journal of Mammalogy, 103(1), 196--208."
 collection: publications
 permalink: /publication/08_Herbivore_stoich_tradeoffs
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/08_Herbivore_stoich_tradeoffs)
