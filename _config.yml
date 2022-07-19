@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matteo Rizzuto"
+title                    : "PhD"
 title_separator          : "-"
 name                     : &name "Matteo Rizzuto"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Matteo Rizzuto"
   avatar           : "avatar.jpeg"
   bio              : "Postdoctoral Associate in the Schmitz lab, working on incorporating the ecosystem effects of animals in mathematical models of the carbon cycle."
-  location         : "School of the Environment, Yale University, New Haven, Connecticut, United States"
+  location         : "School of the Environment,<br>Yale University,<br>New Haven,<br>Connecticut,<br>United States"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=V6rOyqgAAAAJ&hl"
   researchgate     : "https://www.researchgate.net/profile/Matteo_Rizzuto"
