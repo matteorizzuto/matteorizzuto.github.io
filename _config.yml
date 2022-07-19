@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PhD"
+title                    : "Matteo Rizzuto"
 title_separator          : "-"
 name                     : &name "Matteo Rizzuto"
 description              : &description "personal description"
