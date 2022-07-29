@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Matteo, and I am an ecologist.
+# Hi, I'm Matteo and I am an ecologist.
 <br>
 ## I study how organisms interact with their environment to shape the world around them. Welcome to my website!
 
