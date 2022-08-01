@@ -1,5 +1,5 @@
 ---
-title: "<b>10\\.</b> Little, C.J.<sup><a title='Corresponding author'>✉</a></sup>, <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Luhring, T.M., Monk, J.D., Nowicki, R.J., Paseka, R.E., Stegen, J.C., Symons, C.C., Taub, F.B., Yan, J.D.L. (2022) **Movement with Meaning: Integrating Information into Meta-Ecology.** Oikos."
+title: "<b>10\\.</b> Little, C.J.<sup><a title='Corresponding author'>✉</a></sup>, <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Luhring, T.M., Monk, J.D., Nowicki, R.J., Paseka, R.E., Stegen, J.C., Symons, C.C., Taub, F.B., Yan, J.D.L. (2022) **Movement with Meaning: Integrating Information into Meta-Ecology.** Oikos, 2022(8). <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publications/10_Information_metaecosystems
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/10_Information_metaecosystems)
