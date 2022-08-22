@@ -1,5 +1,5 @@
 ---
-title: "<b>6\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Richmond, I.C., Heckford, T.R., Balluffi-Fry, J., Wiersma, Y.F. (2021) **Forage stoichiometry predicts the home range size of a small terrestrial herbivore.** Oecologia, 197(2), 327--338. </br><b><i>Winner, Hanski Prize 2021</i></b>"
+title: "<b>6\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., Richmond, I.C., Heckford, T.R., Balluffi-Fry, J., Wiersma, Y.F. (2021) **Forage stoichiometry predicts the home range size of a small terrestrial herbivore.** Oecologia, 197(2), 327--338. <u><i>Hanski Prize 2021</i></u>"
 collection: publications
 permalink: /publication/06_Home_range_stoichiometry
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/06_Home_range_stoichiometry)
