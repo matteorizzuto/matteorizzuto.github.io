@@ -154,6 +154,8 @@ document.getElementById("defaultOpen").click();
 </script>
 </body>
 
+Over the years, I also participated in a number of research projects, in various capacities. You can read more about these <u><a href="https://matteorizzuto.github.io/past-research/">here</a></u>.
+
 <!-- <h2><b>Ecology of Individuals</b></h2>
 <p>
 Organisms&mdash;plants, animals, and microbes&mdash;are the starting point of my research. Through foraging, interacting with other organisms, or spending time in a given place, organisms shape the environment. At the same time, the characteristics of their environment cause organisms to change how they act. Organism-environment interactions are the backbone upon which most of what we know about the ecology of ecosystems is built. Consequently, investigating and describing these interactions are fundamental steps towards developing a holistic, general understanding of the way ecosystems&mdash;and our planet&mdash;work.
