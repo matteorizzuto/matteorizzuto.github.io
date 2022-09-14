@@ -1,5 +1,5 @@
 ---
-title: "<b>11\\.</b> Heckford, T.R.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Richmond, I.C., Wiersma, Y.F. **Foliar elemental niche responses of balsam fir (<i>Abies balsamea</i>) and white birch (<i>Betula papyrifera</i>) to differing community types across geographic scales.** Ecology and Evolution, 12, e9244. <img src='../images/open_access.png'>"
+title: "<b>11\\.</b> Heckford, T.R.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Vander Wal, E., <u>Rizzuto, M.</u>, Balluffi-Fry, J., Richmond, I.C., Wiersma, Y.F. **Ecoregion and community structure influences on the foliar elemental niche of balsam fir (<i>Abies balsamea</i> (L.) Mill.) and white birch (<i>Betula papyrifera</i> Marshall)** Ecology and Evolution, 12, e9244. <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publications/11_Elemental_niche_boreal
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/11_Elemental_niche_boreal)
