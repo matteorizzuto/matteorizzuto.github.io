@@ -19,7 +19,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2><i>Peer reviewed</i></h2>
+<!-- <h2><i>Peer reviewed</i></h2> -->
 
 {% for post in site.publications reversed %}
   {% include archive-single-pub.html %}
