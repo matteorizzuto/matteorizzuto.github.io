@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Matteo Rizzuto"
   avatar           : "matteo.jpeg"
-  bio              : "Postdoctoral Associate in the Schmitz lab, <br>developing new mathematical models to account for how herbivores' presence and activity influence the capture, cycling, and storage of Carbon in ecosystems.</br>"
-  location         : "School of the Environment,<br>Yale University, New Haven,<br>Connecticut, United States"
+  bio              : "Postdoctoral Associate in the Schmitz lab, <b>developing new mathematical models to account for how herbivores' presence and activity influence the capture, cycling, and storage of Carbon in ecosystems.</b>"
+  location         : "School of the Environment,<br>Yale University, New Haven,<br>CT, United States"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=JkHYiIEAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Matteo_Rizzuto"
