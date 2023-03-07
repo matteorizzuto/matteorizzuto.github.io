@@ -2,7 +2,7 @@
 title: "<u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Schmitz, O.J., Vander Wal, E., Wiersma, Y.F., Heckford, T.R. [*in review*] **Animal-vectored nutrient flows across resource gradients influence the nature of local and meta-ecosystem functioning** <img src='../images/preprint.png'><img src='../images/open_access.png'>"
 collection: publications
 permalink: /publications/12_Consumer_movement_metaecosystems
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publication/12_Consumer_movement_metaecosystems)
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/12_Consumer_movement_metaecosystems)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://www.biorxiv.org/content/10.1101/2023.03.03.530982v1)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.16479933)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/12_Consumer_movement_metaecosystems.bib)'
