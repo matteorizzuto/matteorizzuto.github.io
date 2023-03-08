@@ -11,7 +11,7 @@ author_profile: true
 
 <h2><i>In progress</i></h2>
 
-  {% for post in site.inprogress reversed %}
+  {% for post in site.inprogress %}
     {% include archive-single-pub.html %}
   {% endfor %}
 
