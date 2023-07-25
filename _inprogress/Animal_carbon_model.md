@@ -1,5 +1,5 @@
 ---
-title: "Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Schmitz, O. J. [*submitted*] **Rewiring the carbon cycle: a theoretical framework for animal-driven ecosystem carbon sequestration. <img src='../images/preprint.png'><img src='../images/open_access.png'>**"
+title: "Rizzuto, M.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Schmitz, O. J. [*in review*] **Rewiring the carbon cycle: a theoretical framework for animal-driven ecosystem carbon sequestration. <img src='../images/preprint.png'><img src='../images/open_access.png'>**"
 collection: inprogress
 permalink: /inprogress/Animal_carbon_model
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../inprogress/Animal_carbon_model)
