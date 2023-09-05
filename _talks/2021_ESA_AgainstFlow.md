@@ -5,5 +5,5 @@ type: "Oral presentation"
 permalink: /talks/2021_ESA_AgainstFlow.md
 venue: "<i>Vital Connections in Ecology</i> Virtual Annual Meeting 2021 Ecological Society of America"
 date: 2021-08-04
-location: "Long Beach, USA"
+location: "Long Beach, CA, USA"
 ---

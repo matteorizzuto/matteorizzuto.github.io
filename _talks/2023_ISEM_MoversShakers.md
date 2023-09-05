@@ -5,5 +5,5 @@ type: "Oral presentation"
 permalink: /talks/2023_ISEM_MoversShakers.md
 venue: "<i>Ecological Models for Tomorrow’s Solutions</i>  The International Society for Ecological Modelling Global Conference 2023"
 date: 2022-05-05
-location: "Scarborough, Canada"
+location: "Scarborough, ON, Canada"
 ---

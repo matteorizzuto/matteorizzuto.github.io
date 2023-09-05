@@ -5,5 +5,5 @@ type: "Oral presentation"
 permalink: /talks/2023_YPA_ZoogeochemModel.md
 venue: "<i>6<sup>th</sup> Annual Symposium</i> Yale Postdoc Association"
 date: 2022-05-25
-location: "New Haven, USA"
+location: "New Haven, CT, USA"
 ---

@@ -24,5 +24,9 @@ var addressPoints = [
   [
     "Yale University, New Haven, CT, USA",
     41.31,
-    -72.923611,]
+    -72.923611,],
+  [
+    "Oregon Convention Center, Portland, OR, USA",
+    45.5283,
+    -122.6631,]
 ];

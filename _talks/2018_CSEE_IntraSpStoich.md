@@ -5,5 +5,5 @@ type: "Oral presentation"
 permalink: /talks/2018_CSEE_IntraSpStoich.md
 venue: "Canadian Society for Ecology and Evolution Annual General Meeting 2018"
 date: 2018-07-19
-location: "Guelph, Canada"
+location: "Guelph, ON, Canada"
 ---

@@ -5,5 +5,5 @@ type: "Oral presentation"
 permalink: /talks/2016_CSEE_Scaling.md
 venue: "Canadian Society for Ecology and Evolution Annual General Meeting 2017"
 date: 2016-07-08
-location: "St. John's, Canada"
+location: "St. John's, NL, Canada"
 ---
