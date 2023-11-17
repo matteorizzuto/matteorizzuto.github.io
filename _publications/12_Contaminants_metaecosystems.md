@@ -1,10 +1,10 @@
 ---
-title: "McLeod, A. M.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., <u>Rizzuto, M.</u>, Leibold, M. A., Schiesari, L. [*in review*] **Integrating ecosystem and contaminant models to predict the effects of ecosystem fluxes on contaminant dynamics. <img src='../images/preprint.png'><img src='../images/open_access.png'>**"
-collection: inprogress
-permalink: /inprogress/Contaminants_metaecosystems
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../inprogress/Contaminants_metaecosystems)
+title: "McLeod, A. M.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., <u>Rizzuto, M.</u>, Leibold, M. A., Schiesari, L. [*accepted*] **Integrating ecosystem and contaminant models to predict the effects of ecosystem fluxes on contaminant dynamics. Ecosphere, 2023. <img src='../images/preprint.png'><img src='../images/open_access.png'>**"
+collection: publications
+permalink: /publications/12_Contaminants_metaecosystems
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/12_Contaminants_metaecosystems)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/2023.07.15.549171)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/Contaminants_metaecosystems.bib)'
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/12_Contaminants_metaecosystems.bib)'
 ---
 
 ## Abstract
@@ -14,4 +14,4 @@ Pollution is one of the major drivers of ecosystem change in the Anthropocene. T
 </p>
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/2023.07.15.549171)
-\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/Contaminants_metaecosystems.bib)
+\| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/12_Contaminants_metaecosystems.bib)
