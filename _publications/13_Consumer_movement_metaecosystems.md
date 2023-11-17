@@ -1,5 +1,5 @@
 ---
-title: "<u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Schmitz, O.J., Vander Wal, E., Wiersma, Y.F., Heckford, T.R. [*accepted*] **Animal-vectored nutrient flows across resource gradients influence the nature of local and meta-ecosystem functioning.** Ecological Modeling, 2023. <img src='../images/preprint.png'><img src='../images/open_access.png'>"
+title: "<b>13\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S.J., Schmitz, O.J., Vander Wal, E., Wiersma, Y.F., Heckford, T.R. [*accepted*] **Animal-vectored nutrient flows across resource gradients influence the nature of local and meta-ecosystem functioning.** Ecological Modeling, 2023. <img src='../images/preprint.png'><img src='../images/open_access.png'>"
 collection: publications
 permalink: /publications/13_Consumer_movement_metaecosystems
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/13_Consumer_movement_metaecosystems)
