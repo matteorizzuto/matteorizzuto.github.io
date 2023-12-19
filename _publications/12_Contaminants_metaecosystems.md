@@ -1,5 +1,5 @@
 ---
-title: "<b>12\\.</b> McLeod, A. M.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., <u>Rizzuto, M.</u>, Leibold, M. A., Schiesari, L. [*accepted*] **Integrating ecosystem and contaminant models to predict the effects of ecosystem fluxes on contaminant dynamics. Ecosphere, 2023. <img src='../images/preprint.png'><img src='../images/open_access.png'>**"
+title: "<b>12\\.</b> McLeod, A. M.<sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., <u>Rizzuto, M.</u>, Leibold, M. A., Schiesari, L. [*accepted*] **Integrating ecosystem and contaminant models to predict the effects of ecosystem fluxes on contaminant dynamics.** Ecosphere, 2023. <img src='../images/preprint.png'><img src='../images/open_access.png'>"
 collection: publications
 permalink: /publications/12_Contaminants_metaecosystems
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/12_Contaminants_metaecosystems)
