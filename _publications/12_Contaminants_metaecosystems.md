@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/12_Contaminants_metaecosystems
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/12_Contaminants_metaecosystems)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1002/ecs2.4739)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://doi.org/10.6084/m9.figshare.16563978)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/12_Contaminants_metaecosystems.bib)'
 ---
 
@@ -14,4 +15,5 @@ Environmental contamination is one of the major drivers of ecosystem change in t
 </p>
 
 [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1002/ecs2.4739)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Code</span>](https://doi.org/10.6084/m9.figshare.16563978)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/12_Contaminants_metaecosystems.bib)
