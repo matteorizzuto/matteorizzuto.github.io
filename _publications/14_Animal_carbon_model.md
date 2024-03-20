@@ -2,7 +2,7 @@
 title: "<b>14\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Leroux, S. J., Schmitz, O. J. [*accepted*] **Rewiring the carbon cycle: a theoretical framework for animal-driven ecosystem carbon sequestration.**  Journal of Geophyisical Research: Biogeosciences. <img src='../images/preprint.png'> <img src='../images/open_access.png'>"
 collection: publications
 permalink: /publications/Animal_carbon_model
-excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../inprogress/Animal_carbon_model)
+excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/14_Animal_carbon_model)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1101/2023.07.14.549071)
 \| [<span class="underline-on-hover" style="color:#FF6F66">Code and data</span>](https://doi.org/10.6084/m9.figshare.23688855)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/14_Animal_carbon_model.bib)'
