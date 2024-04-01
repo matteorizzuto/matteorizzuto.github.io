@@ -3,7 +3,7 @@ title: "<b>13\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉<
 collection: publications
 permalink: /publications/13_Consumer_movement_metaecosystems
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Abstract</span>](../publications/13_Consumer_movement_metaecosystems)
-\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://authors.elsevier.com/a/1iHLJ15DJ-9TU1)
+\| [<span class="underline-on-hover" style="color:#FF6F6F">Full text</span>](https://doi.org/10.1016/j.ecolmodel.2023.110570)
 \| [<span class="underline-on-hover" style="color:#FF6F6F">Data and code</span>](https://doi.org/10.6084/m9.figshare.16479933)
 \| [<span class="underline-on-hover" style="color:#FF6F6F"><img src="../images/bibtex.svg">citation</span>](../bibtex/13_Consumer_movement_metaecosystems.bib)'
 ---
