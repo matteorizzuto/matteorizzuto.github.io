@@ -14,6 +14,6 @@ redirect_from:
 My research focuses on how energy, matter, and information shape the relationships between living beings and their environment. Using a mix of empirical and theoretical approaches, I work to expand models of ecosystem functioning. I do this by measuring exchanges of matter, energy, and information between organisms and their environment, and by developing new theoretical models to predict how these exchanges shape ecosystems. Through my research, I aim to expand our knowledge of how ecosystems work, ultimately improving how we predict and mitigate the impact of human activities on our planet.
 
 <figure>
-<img src="../images/wordcloud.jpg" alt="A word cloud of keywords from my published papers, in the shape of a leaf" style = "float:center">
+<img src="../images/wordcloud.png" alt="A word cloud of keywords from my published papers, in the shape of a leaf" style = "float:center">
 <figcaption>A word cloud of keywords from my published papers</figcaption>
 </figure>
