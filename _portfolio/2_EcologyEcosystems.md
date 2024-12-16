@@ -1,6 +1,6 @@
 ---
 title: "<h2><b>Ecology of Ecosystems</b></h2>"
-excerpt: "<div style = 'display:flex; align-items:center;'><figure><img style='float: right; min-width:25vw; max-width:35vw;padding: 0px 20px 2px 0px' src='../images/RoadMap_Ecosystems.pdf'/><figcaption>Conceptual roadmap to study consumer effects on ecosystem dynamics.<br>From <a href='https://doi.org/10.1111/1365-2656.13538'>Ellis-Soto et al. (2021)</a>.</figcaption></figure><p>Organisms, of course, are not isolated from their enviroment, nor are they just receivers of environmental inputs. They actively influence the environment they live in, shaping it in myriad ways. Identity, condition, activity, density, and diversity of the organisms living in an environment are but a few of the biological factors that can change the non-living world—and in turn be changed by it. This theme made up a substantial portion of my doctoral research and is still a major component of my work. In particular, I am interested in the zoogeochemistry of organisms and how it influences ecosystem structure and functions. </p>"
+excerpt: "Organisms are not isolated from their enviroment and I am interested in how their behaviour and biogeochemical roles influence ecosystem structure and functions. <img src='../images/EllisSoto_etal_2021_Fig2.png'/>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "<h2><b>Theoretical Ecology</b></h2>"
-excerpt: "<div style = 'display:flex; align-items:center;'><figure><img style='float: right; min-width:25vw; max-width:35vw;padding: 0px 20px 2px 0px' src='../images/MetaEcoInfo_Fig1.jpg'/><figcaption>Diagram of information flows, within and across ecosystems. From <a href='https://onlinelibrary.wiley.com/share/author/EIUEDRPH8WUVSINFWT7Q?target=10.1111/oik.08892'>Little et al. (2022)</a>.</figcaption></figure><p>Empirical, field-based research sparked my passion for ecology. However, among fieldwork bouts, I developed an interest in ecological theory and its multiple facets. Theoretical work in ecology is helpful as working on a piece of paper or a computer screen provides something very hard to come by in the field: repeatability and control. I am interested in how mathematical models of ecosystem functioning account for animal activities. I am also working with several stellar researchers to introduce additional currencies in models of ecosystem functioning, to improve our ability to study and predict their dynamics.</p>"
+excerpt: "Between fieldwork bouts, I grew interested in quantitative and theoretical ecology. I use mathematical models and literature data to build general frameworks that help interpret and integrate empirical insights. <img src='../images/Little_etal_2022_Fig1.png'/>"
 collection: portfolio
 ---
 

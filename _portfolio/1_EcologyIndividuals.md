@@ -1,6 +1,6 @@
 ---
 title: "<h2><b>Ecology of Individuals</b></h2>"
-excerpt: "Organisms are the starting point of my research, and I am interested in the constant feedback and feedforward mechanisms that exist among them and with their environment. </br><img src='../images/Hare_EcoIndividual.jpg'/>"
+excerpt: "Organisms are the starting point of my research, and I am interested in the constant feedback and feedforward mechanisms that exist among them and with their environment. <img src='../images/Hare_EcoIndividual.jpg'/>"
 collection: portfolio
 ---
 
