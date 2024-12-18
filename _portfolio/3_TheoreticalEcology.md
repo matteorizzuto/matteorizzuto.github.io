@@ -1,6 +1,6 @@
 ---
 title: "<h2><b>Theoretical Ecology</b></h2>"
-excerpt: "Between fieldwork bouts, I grew interested in quantitative and theoretical ecology. I use mathematical models and literature data to build general frameworks that help interpret and integrate empirical insights. <img src='images/Little2022Fig1.jpg'/>"
+excerpt: "Between fieldwork bouts, I grew interested in quantitative and theoretical ecology. I use mathematical models and literature data to build general frameworks that help interpret and integrate empirical insights. <img src='../images/Little2022Fig1.jpg'/>"
 collection: portfolio
 ---
 
