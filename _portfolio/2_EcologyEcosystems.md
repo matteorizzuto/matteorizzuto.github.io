@@ -1,6 +1,6 @@
 ---
 title: "<h2><b>Ecology of Ecosystems</b></h2>"
-excerpt: "Organisms are not isolated from their enviroment and I am interested in how their behaviour and biogeochemical roles influence ecosystem structure and functions. <img src='../images/EllisSoto_etal_2021_Fig2.jpg'/>"
+excerpt: "Organisms are not isolated from their enviroment and I am interested in how their behaviour and biogeochemical roles influence ecosystem structure and functions. <img src='../images/EllisSoto_etal_2021_Fig2'/>"
 collection: portfolio
 ---
 
