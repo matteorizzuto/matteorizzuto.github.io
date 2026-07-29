@@ -28,5 +28,17 @@ var addressPoints = [
   [
     "Oregon Convention Center, Portland, OR, USA",
     45.5283,
-    -122.6631,]
+    -122.6631,],
+  [
+    "Centro Cultural y de Convenciones, Oaxaca de Ju&aacute;rez, Oaxaca, Mexico",
+    17.0639095,
+    -96.7044051,],
+  [
+    "University of Toronto, Ontario, Canada",
+    43.6587968,
+    -79.3987849,],
+  [
+    "National STEM Learning Centre, York, UK",
+    53.9503492,
+    -1.0535713,],      
 ];
