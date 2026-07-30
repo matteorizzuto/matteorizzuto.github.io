@@ -1,5 +1,5 @@
 ---
-title: "<u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Espinoza, I., Saucedo, C., Schmitz, O. J.  **Trophic rewilding pumas and guanacos: estimating the potential to enhance carbon sequestration in a Patagonian grassland ecosystem.** Ecological Solutions and Evidence. <i>In review</i>.<img src='../images/preprint.png'>"
+title: "<b>20\\.</b> <u>Rizzuto, M.</u><sup><a title='Corresponding author'>✉</a></sup>, Espinoza, I., Saucedo, C., Schmitz, O. J.  **Trophic rewilding pumas and guanacos: estimating the potential to enhance carbon sequestration in a Patagonian grassland ecosystem.** Ecological Solutions and Evidence. <i>In review</i>.<img src='../images/preprint.png'>"
 collection: inprogress
 permalink: /inprogress/ACC_Chile
 excerpt: '[<span class="underline-on-hover" style="color:#FF6F6F">Preprint</span>](https://doi.org/10.64898/2026.07.28.740956)'
